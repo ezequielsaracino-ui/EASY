@@ -1,0 +1,663 @@
+timestamp,categoria,producto,precio_lista,precio_final,descuento_pct,link
+2026-08-31T18:36:59,/electrodomesticos,Lavavajillas 12 Cubiertos Gris DISH 12.2 LTX Drean,1590690.0,795345.0,50.0,https://www.easy.com.ar/lavavajillas-drean-bco-12-2-ltx-1329559/p
+2026-08-31T18:36:59,/electrodomesticos,Lavavajillas 15 Cubiertos Frontal Gris Dish 15.2 Dtx Drean,1709995.0,854997.5,50.0,https://www.easy.com.ar/lavavajillas-drean-dish-15-2-dtx-15cub/p
+2026-08-31T18:36:59,/electrodomesticos,Lavavajillas 12 Cubiertos Blanco Dish 12.2 LTB Drean,1386975.0,693487.5,50.0,https://www.easy.com.ar/lavavajillas-drean-dish-12-2-ltb-12cub/p
+2026-08-31T18:36:59,/electrodomesticos/lavado,Lavavajillas 12 Cubiertos Gris DISH 12.2 LTX Drean,1590690.0,795345.0,50.0,https://www.easy.com.ar/lavavajillas-drean-bco-12-2-ltx-1329559/p
+2026-08-31T18:36:59,/electrodomesticos/lavado,Lavavajillas 15 Cubiertos Frontal Gris Dish 15.2 Dtx Drean,1709995.0,854997.5,50.0,https://www.easy.com.ar/lavavajillas-drean-dish-15-2-dtx-15cub/p
+2026-08-31T18:36:59,/electrodomesticos/lavado,Lavavajillas 12 Cubiertos Blanco Dish 12.2 LTB Drean,1386975.0,693487.5,50.0,https://www.easy.com.ar/lavavajillas-drean-dish-12-2-ltb-12cub/p
+2026-08-31T18:36:59,/electrodomesticos/lavado/lavavajillas,Lavavajillas 12 Cubiertos Gris DISH 12.2 LTX Drean,1590690.0,795345.0,50.0,https://www.easy.com.ar/lavavajillas-drean-bco-12-2-ltx-1329559/p
+2026-08-31T18:36:59,/electrodomesticos/lavado/lavavajillas,Lavavajillas 15 Cubiertos Frontal Gris Dish 15.2 Dtx Drean,1709995.0,854997.5,50.0,https://www.easy.com.ar/lavavajillas-drean-dish-15-2-dtx-15cub/p
+2026-08-31T18:36:59,/electrodomesticos/lavado/lavavajillas,Lavavajillas 12 Cubiertos Blanco Dish 12.2 LTB Drean,1386975.0,693487.5,50.0,https://www.easy.com.ar/lavavajillas-drean-dish-12-2-ltb-12cub/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro Valencia M+Design,39995.0,19997.5,50.0,https://www.easy.com.ar/lamp-de-esc-valencia-2-0-1l-e27-negro-ar/p
+2026-08-31T18:36:59,/iluminacion,Colgante 1 Luz E27 Negro Tebas M+Design,29995.0,14997.5,50.0,https://www.easy.com.ar/lamp-colgar-1l-tebas-e27-ar/p
+2026-08-31T18:36:59,/iluminacion,lamp mesa 1l sinni e27 ar,49995.0,24997.5,50.0,https://www.easy.com.ar/lamp-mesa-1l-sinni-e27-ar/p
+2026-08-31T18:36:59,/iluminacion,Pack 2 Lámparas de Mesa con Pantalla E14 Blanco Aznar M+Design,59995.0,29997.5,50.0,https://www.easy.com.ar/pack-2-lamp-mesa-aznar-e14-ar/p
+2026-08-31T18:36:59,/iluminacion,Lámpara de Pie 1 Luz Aurora E27 M+Design,109995.0,54997.5,50.0,https://www.easy.com.ar/lamp-pie-1l-aurora-e27-ar/p
+2026-08-31T18:36:59,/iluminacion,Colgante 1 Luz E27 Amarillo Calisto M+Design,59995.0,29997.5,50.0,https://www.easy.com.ar/lamp-colgar-1l-calisto-e27-ar/p
+2026-08-31T18:36:59,/iluminacion,Colgante 6 Luces E27 Dorado Acrux M+Design,134995.0,67497.5,50.0,https://www.easy.com.ar/lamp-colgar-6l-acrux-e27-ar/p
+2026-08-31T18:36:59,/iluminacion,lamp dibujo 2.0 1l movible negra ar,39995.0,19997.5,50.0,https://www.easy.com.ar/lamp-dibujo-2-0-1l-movible-negra-ar/p
+2026-08-31T18:36:59,/iluminacion,spot 3l gu10 adela ar,49995.0,24997.5,50.0,https://www.easy.com.ar/spot-3l-gu10-adela-ar/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Blanco Valencia M+Design,39995.0,19997.5,50.0,https://www.easy.com.ar/lamp-de-esc-valencia-2-0-1l-e27-blanc-ar/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Led Regulable 1 Luz Dorado Nl23 Helles Haus,34995.0,17497.5,50.0,https://www.easy.com.ar/lamp-led-de-intensidad-regulable-golden/p
+2026-08-31T18:36:59,/iluminacion,Plafón Cuadrado 1 Luz E27 Surtido M+Design,29995.0,14997.5,50.0,https://www.easy.com.ar/plafon-cuad-diseños-1l-e27-ar/p
+2026-08-31T18:36:59,/iluminacion,Lampara De Escritorio Led De Cuello Flexible 50 Leds Blanco Probattery,44995.0,22497.5,50.0,https://www.easy.com.ar/lampara-led-recargable-de-cuello-flexible-50-leds-color-blanco---luza-calida-y-fria-con-intensidad-regulaboe/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Led Integrado Cuello Flexible Luz Cálida y Fría 7 W Blanco Probattery,19995.0,9997.5,50.0,https://www.easy.com.ar/lampara-led-recargable-de-cuello-flexible-20-leds-color-blanco---luza-calida-y-fria-3-posiciones-/p
+2026-08-31T18:36:59,/iluminacion,"Lámpara Infantil Conejo Luz Cálida 2,5 W Táctil Recargable ML10 Helles Haus",30995.0,15497.5,50.0,https://www.easy.com.ar/luz-infantil-nocturna-conejo/p
+2026-08-31T18:36:59,/iluminacion,lamp escr 1l lince e27 negro ar,29995.0,14997.5,50.0,https://www.easy.com.ar/lamp-escr-1l-lince-e27-negro-ar/p
+2026-08-31T18:36:59,/iluminacion,Colgante Regleta 3 Luces G9 Negro ES941-3CO JS Iluminación,91995.0,45997.5,50.0,https://www.easy.com.ar/colgante-lola-regleta-3l-gu9-negro/p
+2026-08-31T18:36:59,/iluminacion,Velador Led Esfera RGB 1 Luz Blanco Esfera Hants,34995.0,17497.5,50.0,https://www.easy.com.ar/velador-led-esfera-rgb-1l-blanco/p
+2026-08-31T18:36:59,/iluminacion,Velador Capsula Cristal Con Luces LED Hants,15995.0,7997.5,50.0,https://www.easy.com.ar/velador-capsula-cristal-c-luces-led/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Infantil Led Luz Cálida 2.5 W Táctil Silicona Ml10 Helles Haus,30995.0,15497.5,50.0,https://www.easy.com.ar/luz-infantil-nocturna-fruta/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Beige Yigo Don Bell,68995.0,34497.5,50.0,https://www.easy.com.ar/velador-yigo-beige-e27/p
+2026-08-31T18:36:59,/iluminacion,Plafón Smart+ WiFi RGBW 15 W 1200 Lm Blanco Downlight Ledvance,69995.0,34997.5,50.0,https://www.easy.com.ar/downlight-smart--wifi-15w-100-240v-rgbw/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio con Pinza E27 Negro Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-ngo/p
+2026-08-31T18:36:59,/iluminacion,Aplique Redondo 1 Luz GU10 Cobre Mate Don Bell,33995.0,16997.5,50.0,https://www.easy.com.ar/aplique-1l-gu10-base-redon-cobre-mate-1347911/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Led 3.5 W Plata Luz Neutra Sica,34995.0,17497.5,50.0,https://www.easy.com.ar/lamp-escritorio-led-3-5w-plata-l--neutr/p
+2026-08-31T18:36:59,/iluminacion,Lámpara de Pie 2 Luces E27 Negro Eolo Don Bell,178995.0,89497.5,50.0,https://www.easy.com.ar/lamp-pie-eolo-2l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Led Regulable 1 Luz Plateado Nl23 Helles Haus,32995.0,16497.5,50.0,https://www.easy.com.ar/lamp-led-de-intensidad-regulable-silver/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio 2 Luces E27 Verde Budy Text Don Bell,78745.0,39372.5,50.0,https://www.easy.com.ar/velador-budy-2l-text-verde-e27/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro 1131 Trento Carilux,68995.0,34497.5,50.0,https://www.easy.com.ar/velador-trento-con-pantalla/p
+2026-08-31T18:36:59,/iluminacion,colgante bamboo capelina 1l e27 lumi,132000.0,66000.0,50.0,https://www.easy.com.ar/colgante-bamboo-capelina-1l-e27-lumi/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio con Pinza E27 Blanco Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-bco/p
+2026-08-31T18:36:59,/iluminacion,Lámpara de Pie Totem E27 Marrón Elkavellovet Elkas,82995.0,41497.5,50.0,https://www.easy.com.ar/lamp--de-pie-totem-mdf-1l-e27-madera/p
+2026-08-31T18:36:59,/iluminacion,Lámpara de Pie 1 Luz E27 Marrón Kraft Elkas,159995.0,79997.5,50.0,https://www.easy.com.ar/lamp--de-pie-lucas-kraft-1l-e27/p
+2026-08-31T18:36:59,/iluminacion,Lámpara de Pie E27 Madera Natural Pantalla Negra Carilux,158995.0,79497.5,50.0,https://www.easy.com.ar/lamp--de-pie-joana-1l-e27-peteribi/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Led Luz Cálida 4 W Blanca Macroled,67995.0,33997.5,50.0,https://www.easy.com.ar/velador-minerva-multifuncion-1l-blanco/p
+2026-08-31T18:36:59,/iluminacion,Velador Aluminio 1 Luz Led Dorada Lujo Hants,32995.0,16497.5,50.0,https://www.easy.com.ar/velador-aluminio-1l-led-dorada/p
+2026-08-31T18:36:59,/iluminacion,Velador Multicolor Con Control Remoto 1 Luz Blanco Touch Hants,27995.0,13997.5,50.0,https://www.easy.com.ar/velador-multicolor-c-control-1l-blanco/p
+2026-08-31T18:36:59,/iluminacion,"Lámpara Infantil Led Dinosaurio Luz Cálida Fría RGB 1,5 W Ilra-Dino Probattery",43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-dino/p
+2026-08-31T18:36:59,/iluminacion,"Lámpara Infantil Led 0,8 W Luz Cálida Fría RGB Pingüino Blanco Probattery",43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-pinguino/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio G9 Negro Peek Text Don Bell,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-peek-text-negro-g9/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Beige Blush Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-blush-beige-e27/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Gris Blush Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-blush-gris-e27/p
+2026-08-31T18:36:59,/iluminacion,Lámpara De Escritorio Theia Text Blanco E27 Don Bell,59995.0,29997.5,50.0,https://www.easy.com.ar/lampara-de-escrit--theia-text-blanco-e27/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Rosa Flip Don Bell,51995.0,25997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-flip-salmon-e27/p
+2026-08-31T18:36:59,/iluminacion,Lámpara De Escritorio Theia Text Negro E27 Don Bell,59995.0,29997.5,50.0,https://www.easy.com.ar/lampara-de-escrit-theia-text-negro-e27/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Flip 1 Luz E27 Verde Agua Don Bell,54995.0,27497.5,50.0,https://www.easy.com.ar/lampara-de-escrit--flip-verde-agua-e27/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Flip 1 Luz E27 Beige Don Bell,54995.0,27497.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-flip-beige-e27/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro Yigo Don Bell,68995.0,34497.5,50.0,https://www.easy.com.ar/velador-yigo-text-negro-e27/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro 5350 Faroluz,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-moderno-media-esfera-negro/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Marrón 5350 Faroluz,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-moderno-media-esfera-tierra/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa Media Esfera E27 Beige 5350 Faroluz,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-moderno-media-esfera-crema/p
+2026-08-31T18:36:59,/iluminacion,Velador Alambre Kraft E27 Negro Elkavelfearless Elkas,55995.0,27997.5,50.0,https://www.easy.com.ar/velador-karft-negro/p
+2026-08-31T18:36:59,/iluminacion,Velador Travis Kraft 1 Luz E27 Elkas,54995.0,27497.5,50.0,https://www.easy.com.ar/velador-kraft-marron/p
+2026-08-31T18:36:59,/iluminacion,Velador con Pantalla E27 Marrón Elkavelgorgeous Elkas,64995.0,32497.5,50.0,https://www.easy.com.ar/velador-kraft-con-pantalla/p
+2026-08-31T18:36:59,/iluminacion,Velador Infantil G10Q Marrón Firu-Michi Carilux,49890.0,24945.0,50.0,https://www.easy.com.ar/velador-michi/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro E1-Golfo Carilux,58995.0,29497.5,50.0,https://www.easy.com.ar/lamp--de-escritorio-golfo-negra/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio LED Menta Galva Abitare,39500.0,19750.0,50.0,https://www.easy.com.ar/lamp-escr-led-galva-menta-4000k-ar/p
+2026-08-31T18:36:59,/iluminacion,Velador LED con Reloj Despertador Luz Cálida 5 W Blanco Vulcano Macroled,172995.0,86497.5,50.0,https://www.easy.com.ar/velador-vulcano-reloj-despertador-macroled/p
+2026-08-31T18:36:59,/iluminacion,Velador con Parlante Bluetooth Luz Cálida Blanco Baco Macroled,144595.0,72297.5,50.0,https://www.easy.com.ar/velador-baco-con-parlante-bluetooth/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Led 6 W Luz Cálida Negro Juno Macroled,67995.0,33997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-juno-negra-1l/p
+2026-08-31T18:36:59,/iluminacion,Colgante Yute 1 Luz E27 Beige Negro Elkalampyyn Elkas,89995.0,44997.5,50.0,https://www.easy.com.ar/colgante-alsa-1l-e27-yute/p
+2026-08-31T18:36:59,/iluminacion,Velador Trípode Malla E27 Negro EA9000-02 Avanti,58995.0,29497.5,50.0,https://www.easy.com.ar/velador-industrial-malla-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion,Velador Pie E27 Blanco Pirámide Mon-Can,86495.0,43247.5,50.0,https://www.easy.com.ar/velador-piramide-gab-negro-1l-e27-blanco/p
+2026-08-31T18:36:59,/iluminacion,Velador Escritorio E27 Negro Pirámide Mon-Can,86495.0,43247.5,50.0,https://www.easy.com.ar/velador-piramide-gab-negro-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Arpillera E27 Marrón Circular Mon-Can,49895.0,24947.5,50.0,https://www.easy.com.ar/velador-arpillera-1l-e27-natural/p
+2026-08-31T18:36:59,/iluminacion,Velador Trípode Blanco Micro Pantalla Cilíndrica E27 Iluminacion Jc,50860.0,25430.0,50.0,https://www.easy.com.ar/velador-tripode-c-pant-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion,Velador Trípode Con Pantalla Cilíndrica E27 Blanco Iluminacion Jc,56695.0,28347.5,50.0,https://www.easy.com.ar/velador-tripode-c-pant-1l-e27-crudo/p
+2026-08-31T18:36:59,/iluminacion,Velador Trípode E27 1 Luz Negro Apolo Iluminación Jc,54995.0,27497.5,50.0,https://www.easy.com.ar/velador-tripode-apolo-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion,Velador Metal E27 Negro Cobra Iluminación Jc,53980.0,26990.0,50.0,https://www.easy.com.ar/velador-cobra-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro Madera Patik Don Bell,64995.0,32497.5,50.0,https://www.easy.com.ar/lamp-escritorio-patik-1l-e27-ngo-mad/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Gris Madera Patik Don Bell,64995.0,32497.5,50.0,https://www.easy.com.ar/lamp-escritorio-patik-1l-e27-bco-mad/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Gris Patik Don Bell,55595.0,27797.5,50.0,https://www.easy.com.ar/lamp-escritorio-patik-1l-e27-gris-mad/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negra Mecha Don Bell,53095.0,26547.5,50.0,https://www.easy.com.ar/lamp-escritorio-mech-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Blanco Mech Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/lamp-escritorio-mech-1l-e27-blanco/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Dorado Mech Don Bell,64795.0,32397.5,50.0,https://www.easy.com.ar/lamp-escritorio-mech-1l-e27-bronce/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Con Pinza E27 Azul Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-azul/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Rosa Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-salm/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Beige Con Lapicero Don Bell,46000.0,23000.0,50.0,https://www.easy.com.ar/lamp-escritorio-c-lapicero-1l-e27-beige/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Aqua Lapicero Don Bell,39295.0,19647.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-lapicero-1l-e27-aqua/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Rosa Con Lapicero Don Bell,46000.0,23000.0,50.0,https://www.easy.com.ar/lamp-escritorio-c-lapicero-1l-e27-rosa/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro Campo Don Bell,59995.0,29997.5,50.0,https://www.easy.com.ar/lamp-escritorio-campo-1l-e27-ngo-txt/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Blanco Campo Don Bell,52395.0,26197.5,50.0,https://www.easy.com.ar/lamp-escritorio-campo-1l-e27-bco-txt/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro AO Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/lamp-escritorio-valu-1l-e27-negro-txt/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio 1 Luz E27 Negro Don Bell,51295.0,25647.5,50.0,https://www.easy.com.ar/lamp-escritorio-belu-1l-e27-negro-txt/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio GU10 Negro 5212 Faroluz,57995.0,28997.5,50.0,https://www.easy.com.ar/velador-marco-1l-gu10-negro/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Grafito 5211/D Faroluz,50395.0,25197.5,50.0,https://www.easy.com.ar/velador-roque-1l-e27-grafito/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Marrón 5211 Faroluz,44995.0,22497.5,50.0,https://www.easy.com.ar/velador-roque-1l-e27-tierra/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa E27 Blanco 5211/D Faroluz,50395.0,25197.5,50.0,https://www.easy.com.ar/velador-roque-1l-e27-blanco/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Blanco Madera A43 Carilux,80995.0,40497.5,50.0,https://www.easy.com.ar/lamp-escritorio-roma-1l-e27-bco-mad/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro Madera A43 Carilux,80995.0,40497.5,50.0,https://www.easy.com.ar/lamp-escritorio-roma-1l-e27-ngo-mad/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa GU10 Madera Natural Firu Carilux,52995.0,26497.5,50.0,https://www.easy.com.ar/velador-firulay-1l-gu10-madera/p
+2026-08-31T18:36:59,/iluminacion,Velador Led RGB Recargable 5 W Gatito Blanco Probattery,43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-gatito/p
+2026-08-31T18:36:59,/iluminacion,Velador Infantil RGB Recargable Unicornio Probattery,43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-unicorni/p
+2026-08-31T18:36:59,/iluminacion,Lámpara de Pie 3 Luces E27 Negro Vintage Don Bell,264995.0,132497.5,50.0,https://www.easy.com.ar/lamp--de-pie-vintage-3l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion,Velador Recto E27 Negro Base Monteluz,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-recto-e27-base-negra-pant-negra/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa E27 Negro Oval Monteluz,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-oval-e27-base-negra-pant-negra/p
+2026-08-31T18:36:59,/iluminacion,Velador con Pantalla E27 Blanco Circular Monteluz,46195.0,23097.5,50.0,https://www.easy.com.ar/velador-jaula-e27-base-negra-pant-blanca/p
+2026-08-31T18:36:59,/iluminacion,Velador Jaula E27 Negro Circular Monteluz,43995.0,21997.5,50.0,https://www.easy.com.ar/velador-jaula-e27-base-negra-pant-negra/p
+2026-08-31T18:36:59,/iluminacion,Velador Base Recta E27 Rústico Gris Mon-Can,67425.0,33712.5,50.0,https://www.easy.com.ar/velador-recto-e27-base-oxido-pant-rustic/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa E27 Marrón Oval Monteluz,61295.0,30647.5,50.0,https://www.easy.com.ar/velador-oval-e27-base-oxido-pant-rustica/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa E27 Negro Rectangular Monteluz,59495.0,29747.5,50.0,https://www.easy.com.ar/velador-industrial-rectangular-e27-negro/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Madera Blanco E5 Carilux,70995.0,35497.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-e27-paraiso-blanc-1367878/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Madera Negro Paraíso Carilux,73995.0,36997.5,50.0,https://www.easy.com.ar/lamp--escritorio-nordica-e27-paraiso-ng-1367877/p
+2026-08-31T18:36:59,/iluminacion,Velador con Pantalla E27 Gris Cr8821-28-46 San Justo,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-gris-1367314/p
+2026-08-31T18:36:59,/iluminacion,Velador con Pantalla E27 Gris Cr8821-28-45 San Justo,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-camaño-1367313/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa con Pantalla E27 Negro San Justo,50995.0,25497.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-negro-1367312/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa E27 Blanco San Justo,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-blanco-1367311/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro Cobre San Justo,52995.0,26497.5,50.0,https://www.easy.com.ar/lamp--escritorio-embudo-e27-negro-cobre-1367310/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Blanco Cobre Os8920-51 San Justo,52995.0,26497.5,50.0,https://www.easy.com.ar/lamp--escritorio-embudo-e27-blanco-cobr-1367309/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Beige Velador Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/lamp--escritorio-ibla-e27-beige-1366391/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Gris Velador Don Bell,56995.0,28497.5,50.0,https://www.easy.com.ar/lamp--escritorio-ibla-e27-gris-1366390/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Gris Bronce Don Bell,57795.0,28897.5,50.0,https://www.easy.com.ar/lamp--escritorio-colonia-e27-gris-bronc-1366388/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Verde Bronce Velador Don Bell,57795.0,28897.5,50.0,https://www.easy.com.ar/lamp--escritorio-colonia-e27-verd-bronc-1366387/p
+2026-08-31T18:36:59,/iluminacion,Velador Globo G9 Bronce Negro Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-vintage-globo-1l-g9-brce-negro-1366177/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa Globo G9 Beige Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/velador-teen-globo-1l-g9-beige-1366176/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro Velador Don Bell,56995.0,28497.5,50.0,https://www.easy.com.ar/lamp--escritorio-ibla-e27-negro-1366130/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa E27 Negro Cerámica Don Bell,86795.0,43397.5,50.0,https://www.easy.com.ar/velador-e27-ceramica-nga-pant-negra-1366127/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Blanco Bronce Velador Don Bell,57795.0,28897.5,50.0,https://www.easy.com.ar/lamp--escritorio-colonia-e27-bco-bronce-1366126/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio G9 Platil Esfera Don Bell,108995.0,54497.5,50.0,https://www.easy.com.ar/lamp--escritorio-esfera-g9-platil-1366125/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio G9 Negro Don Bell,100295.0,50147.5,50.0,https://www.easy.com.ar/lamp--escritorio-esfera-g9-negro-1366124/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Gris Don Bell,99195.0,49597.5,50.0,https://www.easy.com.ar/lamp--escritorio-fase-e27-platil-1366123/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Blanco Don Bell,70895.0,35447.5,50.0,https://www.easy.com.ar/lamp--escritorio-fase-e27-blanco-1366121/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio E27 Negro Don Bell,70895.0,35447.5,50.0,https://www.easy.com.ar/lamp--escritorio-fase-e27-negro-1366120/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio G9 Negro Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-negro-1366118/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio G9 Blanco Flex Don Bell,60795.0,30397.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-blanco-1366117/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio G9 Cobre Mate Don Bell,75295.0,37647.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-cobre-mate-1366116/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio G9 Gris Flex Don Bell,75295.0,37647.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-platil-1366115/p
+2026-08-31T18:36:59,/iluminacion,Spot Led 1 Luz GU10 Negro JC Iluminación,12995.0,6497.5,50.0,https://www.easy.com.ar/spot-dicro-1l-gu10-cabezal-negro-1357812/p
+2026-08-31T18:36:59,/iluminacion,Plafón Led Redondo 1 Luz Cálida 24 W Blanco Candela,17495.0,8747.5,50.0,https://www.easy.com.ar/led-plafon-redondo-emb-24w-calido-1357358/p
+2026-08-31T18:36:59,/iluminacion,Lámpara de Pie Tripode E27 Negro Dorado San Justo,232095.0,116047.5,50.0,https://www.easy.com.ar/velador-trip-c-pant-media-esfer-ngo-cob-1348935/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa Globo E27 Bronce Vintage Don Bell,81795.0,40897.5,50.0,https://www.easy.com.ar/velador-vintage-globo-gold-1l-e27-bronc-1348030/p
+2026-08-31T18:36:59,/iluminacion,Lámpara de Pie G9 2 Luces Bronce Don Bell,205295.0,102647.5,50.0,https://www.easy.com.ar/lamp--pie-vintage-2l-g9-bronce-1348027/p
+2026-08-31T18:36:59,/iluminacion,Lámpara de Pie 1 Luz E27 Bronce Don Bell,174695.0,87347.5,50.0,https://www.easy.com.ar/lamp--pie-vintage-1l-e27-bronce-1348025/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Techo 2 Luces GU10 Cobre Mate Don Bell,78995.0,39497.5,50.0,https://www.easy.com.ar/liston-2l-gu10-base-rect-40cm-cobre-mat-1347912/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa G9 Gris Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/velador-teen-globo-1l-e27-gris-1347903/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa E27 Rosa Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/velador-teen-globo-1l-e27-rosa-1347902/p
+2026-08-31T18:36:59,/iluminacion,Velador Trípode GU10 Madera Negro 1121 Carilux,72995.0,36497.5,50.0,https://www.easy.com.ar/velador-paraiso-1l-gu10-madera-negro-1347351/p
+2026-08-31T18:36:59,/iluminacion,Spot Led 1 Luz GU10 Gris JS Iluminación,48995.0,24497.5,50.0,https://www.easy.com.ar/spot-omega-1l-gu10-cab--508-platil-1339000/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio LED Base RGB Blanca IL-VEL.DL037-B Probattery,32990.0,16495.0,50.0,https://www.easy.com.ar/lamp-esc-led-gamer-base-luminosa---usb-1332678/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Led Luz Fría 3 W Rosa Il-vel.dl009-r Probattery,19995.0,9997.5,50.0,https://www.easy.com.ar/lamp-esc-led-liner-3-intens---usb-rosa-1332675/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Led Luz Fría 3 W Blanco IL-VEL.DL009-B Probattery,20595.0,10297.5,50.0,https://www.easy.com.ar/lamp-esc-led-liner-3-intens---usb-bco-1332674/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio LED USB 3 W Luz Fría Negro Il-vel.dl022-n Probattery,23695.0,11847.5,50.0,https://www.easy.com.ar/lamp-esc-led-aro-3-intensid---usb-negro-1332673/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Led Aro Luz Fría 3 W Blanco Il-vel.dl022-b Probattery,23695.0,11847.5,50.0,https://www.easy.com.ar/lamp-esc-led-aro-3-intensid---usb-bco-1332672/p
+2026-08-31T18:36:59,/iluminacion,Aplique Pared 1 Luz E27 Negro JC Iluminación,36995.0,18497.5,50.0,https://www.easy.com.ar/aplique-int-candil-1l-e27-ngo-text/p
+2026-08-31T18:36:59,/iluminacion,Plafón Led Cuadrado Embutible 10 Luces Luz Cálida 18 W Aluminio Blanco Candela,10995.0,5497.5,50.0,https://www.easy.com.ar/led-plafon-cuadrad-embutible-18w-calido/p
+2026-08-31T18:36:59,/iluminacion,Velador Vintage Globo G9 Gris Bronce Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-vintage-globo-1l-e27-brce-gris/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa Globo G9 Beige Vintage Don Bell,76295.0,38147.5,50.0,https://www.easy.com.ar/velador-vintage-globo-1l-e27-brce-beige/p
+2026-08-31T18:36:59,/iluminacion,Velador Trípode E27 Negro Futurama San Justo,60895.0,30447.5,50.0,https://www.easy.com.ar/velador-futurama-1l-e27-ngo-tx/p
+2026-08-31T18:36:59,/iluminacion,Velador Trípode 1 Luz E27 Blanco San Justo,60895.0,30447.5,50.0,https://www.easy.com.ar/velador-futurama-1l-e27-bco-tx/p
+2026-08-31T18:36:59,/iluminacion,Velador con Pantalla E27 Beige Circular Monteluz,33995.0,16997.5,50.0,https://www.easy.com.ar/velador-gatria2-1l-e27-dorado-pant-beig/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Escritorio Led Luz Neutra 3.5 W Blanca Flexible Sica,37995.0,18997.5,50.0,https://www.easy.com.ar/lamp-escritorio-led-3-5w-bca-l--neutra/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa G9 Gris Finlandia Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-finlandia-1l-e27-platil-30cm-1308094/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa Articulado G9 15 W Cobre Finlandia Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-finlandia-1l-e27-cobre-30cm-1308093/p
+2026-08-31T18:36:59,/iluminacion,Velador con Pantalla E27 Gris Circular Monteluz,31295.0,15647.5,50.0,https://www.easy.com.ar/velador-gatria2-1l-e27-bco-pant-gris/p
+2026-08-31T18:36:59,/iluminacion,Velador Mesa E27 Negro Circular Monteluz,34425.0,17212.5,50.0,https://www.easy.com.ar/velador-gatria2-1l-e27-ngo-pant-nga/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Pie Trípode Madera E27 Blanco 1131 Carilux,211795.0,105897.5,50.0,https://www.easy.com.ar/lamp--de-pie-tripode-nordica-paraiso/p
+2026-08-31T18:36:59,/iluminacion,Lámpara Mesa Trípode E27 Marrón 1131 Carilux,89695.0,44847.5,50.0,https://www.easy.com.ar/lamp--de-mesa-tripode-nordica-paraiso-1278384/p
+2026-08-31T18:36:59,/iluminacion,Listón Led 18 W Blanco Spotsline,36295.0,18147.5,50.0,https://www.easy.com.ar/liston-t-led-1x18w-blanco/p
+2026-08-31T18:36:59,/iluminacion,Velador Honguito E27 1 Luz Naranja 13 W Abitare,25995.0,12997.5,50.0,https://www.easy.com.ar/lampara-velador-honguito-e27-13w-1-luz-naranja-abitare-1158535/p
+2026-08-31T18:36:59,/iluminacion,Spot Led Embutir Redondo Luz Cálida 18 W Ultradelgado SICA,11615.0,5807.5,50.0,https://www.easy.com.ar/spot-emb-led-redond-18w-calido-ultradel/p
+2026-08-31T18:36:59,/iluminacion,Velador Honguito E27 1 Luz Verde 13 W Abitare,25995.0,12997.5,50.0,https://www.easy.com.ar/lampara-velador-honguito-e27-13w-1-luz-verde-abitare-1144603/p
+2026-08-31T18:36:59,/iluminacion,Aplique Interior 1 Luz E27 Blanco Chapa Balucce,37995.0,18997.5,50.0,https://www.easy.com.ar/aplique-inc-1l-chapa-eco-c-tulipa-carla/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro Valencia M+Design,39995.0,19997.5,50.0,https://www.easy.com.ar/lamp-de-esc-valencia-2-0-1l-e27-negro-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Colgante 1 Luz E27 Negro Tebas M+Design,29995.0,14997.5,50.0,https://www.easy.com.ar/lamp-colgar-1l-tebas-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,lamp mesa 1l sinni e27 ar,49995.0,24997.5,50.0,https://www.easy.com.ar/lamp-mesa-1l-sinni-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Pack 2 Lámparas de Mesa con Pantalla E14 Blanco Aznar M+Design,59995.0,29997.5,50.0,https://www.easy.com.ar/pack-2-lamp-mesa-aznar-e14-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara de Pie 1 Luz Aurora E27 M+Design,109995.0,54997.5,50.0,https://www.easy.com.ar/lamp-pie-1l-aurora-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Colgante 1 Luz E27 Amarillo Calisto M+Design,59995.0,29997.5,50.0,https://www.easy.com.ar/lamp-colgar-1l-calisto-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Colgante 6 Luces E27 Dorado Acrux M+Design,134995.0,67497.5,50.0,https://www.easy.com.ar/lamp-colgar-6l-acrux-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,lamp dibujo 2.0 1l movible negra ar,39995.0,19997.5,50.0,https://www.easy.com.ar/lamp-dibujo-2-0-1l-movible-negra-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,spot 3l gu10 adela ar,49995.0,24997.5,50.0,https://www.easy.com.ar/spot-3l-gu10-adela-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Blanco Valencia M+Design,39995.0,19997.5,50.0,https://www.easy.com.ar/lamp-de-esc-valencia-2-0-1l-e27-blanc-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Led Regulable 1 Luz Dorado Nl23 Helles Haus,34995.0,17497.5,50.0,https://www.easy.com.ar/lamp-led-de-intensidad-regulable-golden/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Plafón Cuadrado 1 Luz E27 Surtido M+Design,29995.0,14997.5,50.0,https://www.easy.com.ar/plafon-cuad-diseños-1l-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lampara De Escritorio Led De Cuello Flexible 50 Leds Blanco Probattery,44995.0,22497.5,50.0,https://www.easy.com.ar/lampara-led-recargable-de-cuello-flexible-50-leds-color-blanco---luza-calida-y-fria-con-intensidad-regulaboe/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Led Integrado Cuello Flexible Luz Cálida y Fría 7 W Blanco Probattery,19995.0,9997.5,50.0,https://www.easy.com.ar/lampara-led-recargable-de-cuello-flexible-20-leds-color-blanco---luza-calida-y-fria-3-posiciones-/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,"Lámpara Infantil Conejo Luz Cálida 2,5 W Táctil Recargable ML10 Helles Haus",30995.0,15497.5,50.0,https://www.easy.com.ar/luz-infantil-nocturna-conejo/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,lamp escr 1l lince e27 negro ar,29995.0,14997.5,50.0,https://www.easy.com.ar/lamp-escr-1l-lince-e27-negro-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Colgante Regleta 3 Luces G9 Negro ES941-3CO JS Iluminación,91995.0,45997.5,50.0,https://www.easy.com.ar/colgante-lola-regleta-3l-gu9-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Led Esfera RGB 1 Luz Blanco Esfera Hants,34995.0,17497.5,50.0,https://www.easy.com.ar/velador-led-esfera-rgb-1l-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Capsula Cristal Con Luces LED Hants,15995.0,7997.5,50.0,https://www.easy.com.ar/velador-capsula-cristal-c-luces-led/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Infantil Led Luz Cálida 2.5 W Táctil Silicona Ml10 Helles Haus,30995.0,15497.5,50.0,https://www.easy.com.ar/luz-infantil-nocturna-fruta/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Beige Yigo Don Bell,68995.0,34497.5,50.0,https://www.easy.com.ar/velador-yigo-beige-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Plafón Smart+ WiFi RGBW 15 W 1200 Lm Blanco Downlight Ledvance,69995.0,34997.5,50.0,https://www.easy.com.ar/downlight-smart--wifi-15w-100-240v-rgbw/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio con Pinza E27 Negro Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-ngo/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Aplique Redondo 1 Luz GU10 Cobre Mate Don Bell,33995.0,16997.5,50.0,https://www.easy.com.ar/aplique-1l-gu10-base-redon-cobre-mate-1347911/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Led 3.5 W Plata Luz Neutra Sica,34995.0,17497.5,50.0,https://www.easy.com.ar/lamp-escritorio-led-3-5w-plata-l--neutr/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara de Pie 2 Luces E27 Negro Eolo Don Bell,178995.0,89497.5,50.0,https://www.easy.com.ar/lamp-pie-eolo-2l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Led Regulable 1 Luz Plateado Nl23 Helles Haus,32995.0,16497.5,50.0,https://www.easy.com.ar/lamp-led-de-intensidad-regulable-silver/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio 2 Luces E27 Verde Budy Text Don Bell,78745.0,39372.5,50.0,https://www.easy.com.ar/velador-budy-2l-text-verde-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro 1131 Trento Carilux,68995.0,34497.5,50.0,https://www.easy.com.ar/velador-trento-con-pantalla/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,colgante bamboo capelina 1l e27 lumi,132000.0,66000.0,50.0,https://www.easy.com.ar/colgante-bamboo-capelina-1l-e27-lumi/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio con Pinza E27 Blanco Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-bco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara de Pie Totem E27 Marrón Elkavellovet Elkas,82995.0,41497.5,50.0,https://www.easy.com.ar/lamp--de-pie-totem-mdf-1l-e27-madera/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara de Pie 1 Luz E27 Marrón Kraft Elkas,159995.0,79997.5,50.0,https://www.easy.com.ar/lamp--de-pie-lucas-kraft-1l-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara de Pie E27 Madera Natural Pantalla Negra Carilux,158995.0,79497.5,50.0,https://www.easy.com.ar/lamp--de-pie-joana-1l-e27-peteribi/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Led Luz Cálida 4 W Blanca Macroled,67995.0,33997.5,50.0,https://www.easy.com.ar/velador-minerva-multifuncion-1l-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Aluminio 1 Luz Led Dorada Lujo Hants,32995.0,16497.5,50.0,https://www.easy.com.ar/velador-aluminio-1l-led-dorada/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Multicolor Con Control Remoto 1 Luz Blanco Touch Hants,27995.0,13997.5,50.0,https://www.easy.com.ar/velador-multicolor-c-control-1l-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,"Lámpara Infantil Led Dinosaurio Luz Cálida Fría RGB 1,5 W Ilra-Dino Probattery",43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-dino/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,"Lámpara Infantil Led 0,8 W Luz Cálida Fría RGB Pingüino Blanco Probattery",43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-pinguino/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio G9 Negro Peek Text Don Bell,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-peek-text-negro-g9/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Beige Blush Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-blush-beige-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Gris Blush Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-blush-gris-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara De Escritorio Theia Text Blanco E27 Don Bell,59995.0,29997.5,50.0,https://www.easy.com.ar/lampara-de-escrit--theia-text-blanco-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Rosa Flip Don Bell,51995.0,25997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-flip-salmon-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara De Escritorio Theia Text Negro E27 Don Bell,59995.0,29997.5,50.0,https://www.easy.com.ar/lampara-de-escrit-theia-text-negro-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Flip 1 Luz E27 Verde Agua Don Bell,54995.0,27497.5,50.0,https://www.easy.com.ar/lampara-de-escrit--flip-verde-agua-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Flip 1 Luz E27 Beige Don Bell,54995.0,27497.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-flip-beige-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro Yigo Don Bell,68995.0,34497.5,50.0,https://www.easy.com.ar/velador-yigo-text-negro-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro 5350 Faroluz,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-moderno-media-esfera-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Marrón 5350 Faroluz,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-moderno-media-esfera-tierra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa Media Esfera E27 Beige 5350 Faroluz,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-moderno-media-esfera-crema/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Alambre Kraft E27 Negro Elkavelfearless Elkas,55995.0,27997.5,50.0,https://www.easy.com.ar/velador-karft-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Travis Kraft 1 Luz E27 Elkas,54995.0,27497.5,50.0,https://www.easy.com.ar/velador-kraft-marron/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador con Pantalla E27 Marrón Elkavelgorgeous Elkas,64995.0,32497.5,50.0,https://www.easy.com.ar/velador-kraft-con-pantalla/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Infantil G10Q Marrón Firu-Michi Carilux,49890.0,24945.0,50.0,https://www.easy.com.ar/velador-michi/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro E1-Golfo Carilux,58995.0,29497.5,50.0,https://www.easy.com.ar/lamp--de-escritorio-golfo-negra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio LED Menta Galva Abitare,39500.0,19750.0,50.0,https://www.easy.com.ar/lamp-escr-led-galva-menta-4000k-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador LED con Reloj Despertador Luz Cálida 5 W Blanco Vulcano Macroled,172995.0,86497.5,50.0,https://www.easy.com.ar/velador-vulcano-reloj-despertador-macroled/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador con Parlante Bluetooth Luz Cálida Blanco Baco Macroled,144595.0,72297.5,50.0,https://www.easy.com.ar/velador-baco-con-parlante-bluetooth/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Led 6 W Luz Cálida Negro Juno Macroled,67995.0,33997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-juno-negra-1l/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Colgante Yute 1 Luz E27 Beige Negro Elkalampyyn Elkas,89995.0,44997.5,50.0,https://www.easy.com.ar/colgante-alsa-1l-e27-yute/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Trípode Malla E27 Negro EA9000-02 Avanti,58995.0,29497.5,50.0,https://www.easy.com.ar/velador-industrial-malla-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Pie E27 Blanco Pirámide Mon-Can,86495.0,43247.5,50.0,https://www.easy.com.ar/velador-piramide-gab-negro-1l-e27-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Escritorio E27 Negro Pirámide Mon-Can,86495.0,43247.5,50.0,https://www.easy.com.ar/velador-piramide-gab-negro-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Arpillera E27 Marrón Circular Mon-Can,49895.0,24947.5,50.0,https://www.easy.com.ar/velador-arpillera-1l-e27-natural/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Trípode Blanco Micro Pantalla Cilíndrica E27 Iluminacion Jc,50860.0,25430.0,50.0,https://www.easy.com.ar/velador-tripode-c-pant-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Trípode Con Pantalla Cilíndrica E27 Blanco Iluminacion Jc,56695.0,28347.5,50.0,https://www.easy.com.ar/velador-tripode-c-pant-1l-e27-crudo/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Trípode E27 1 Luz Negro Apolo Iluminación Jc,54995.0,27497.5,50.0,https://www.easy.com.ar/velador-tripode-apolo-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Metal E27 Negro Cobra Iluminación Jc,53980.0,26990.0,50.0,https://www.easy.com.ar/velador-cobra-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro Madera Patik Don Bell,64995.0,32497.5,50.0,https://www.easy.com.ar/lamp-escritorio-patik-1l-e27-ngo-mad/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Gris Madera Patik Don Bell,64995.0,32497.5,50.0,https://www.easy.com.ar/lamp-escritorio-patik-1l-e27-bco-mad/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Gris Patik Don Bell,55595.0,27797.5,50.0,https://www.easy.com.ar/lamp-escritorio-patik-1l-e27-gris-mad/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negra Mecha Don Bell,53095.0,26547.5,50.0,https://www.easy.com.ar/lamp-escritorio-mech-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Blanco Mech Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/lamp-escritorio-mech-1l-e27-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Dorado Mech Don Bell,64795.0,32397.5,50.0,https://www.easy.com.ar/lamp-escritorio-mech-1l-e27-bronce/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Con Pinza E27 Azul Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-azul/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Rosa Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-salm/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Beige Con Lapicero Don Bell,46000.0,23000.0,50.0,https://www.easy.com.ar/lamp-escritorio-c-lapicero-1l-e27-beige/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Aqua Lapicero Don Bell,39295.0,19647.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-lapicero-1l-e27-aqua/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Rosa Con Lapicero Don Bell,46000.0,23000.0,50.0,https://www.easy.com.ar/lamp-escritorio-c-lapicero-1l-e27-rosa/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro Campo Don Bell,59995.0,29997.5,50.0,https://www.easy.com.ar/lamp-escritorio-campo-1l-e27-ngo-txt/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Blanco Campo Don Bell,52395.0,26197.5,50.0,https://www.easy.com.ar/lamp-escritorio-campo-1l-e27-bco-txt/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro AO Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/lamp-escritorio-valu-1l-e27-negro-txt/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio 1 Luz E27 Negro Don Bell,51295.0,25647.5,50.0,https://www.easy.com.ar/lamp-escritorio-belu-1l-e27-negro-txt/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio GU10 Negro 5212 Faroluz,57995.0,28997.5,50.0,https://www.easy.com.ar/velador-marco-1l-gu10-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Grafito 5211/D Faroluz,50395.0,25197.5,50.0,https://www.easy.com.ar/velador-roque-1l-e27-grafito/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Marrón 5211 Faroluz,44995.0,22497.5,50.0,https://www.easy.com.ar/velador-roque-1l-e27-tierra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa E27 Blanco 5211/D Faroluz,50395.0,25197.5,50.0,https://www.easy.com.ar/velador-roque-1l-e27-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Blanco Madera A43 Carilux,80995.0,40497.5,50.0,https://www.easy.com.ar/lamp-escritorio-roma-1l-e27-bco-mad/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro Madera A43 Carilux,80995.0,40497.5,50.0,https://www.easy.com.ar/lamp-escritorio-roma-1l-e27-ngo-mad/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa GU10 Madera Natural Firu Carilux,52995.0,26497.5,50.0,https://www.easy.com.ar/velador-firulay-1l-gu10-madera/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Led RGB Recargable 5 W Gatito Blanco Probattery,43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-gatito/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Infantil RGB Recargable Unicornio Probattery,43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-unicorni/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara de Pie 3 Luces E27 Negro Vintage Don Bell,264995.0,132497.5,50.0,https://www.easy.com.ar/lamp--de-pie-vintage-3l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Recto E27 Negro Base Monteluz,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-recto-e27-base-negra-pant-negra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa E27 Negro Oval Monteluz,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-oval-e27-base-negra-pant-negra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador con Pantalla E27 Blanco Circular Monteluz,46195.0,23097.5,50.0,https://www.easy.com.ar/velador-jaula-e27-base-negra-pant-blanca/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Jaula E27 Negro Circular Monteluz,43995.0,21997.5,50.0,https://www.easy.com.ar/velador-jaula-e27-base-negra-pant-negra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Base Recta E27 Rústico Gris Mon-Can,67425.0,33712.5,50.0,https://www.easy.com.ar/velador-recto-e27-base-oxido-pant-rustic/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa E27 Marrón Oval Monteluz,61295.0,30647.5,50.0,https://www.easy.com.ar/velador-oval-e27-base-oxido-pant-rustica/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa E27 Negro Rectangular Monteluz,59495.0,29747.5,50.0,https://www.easy.com.ar/velador-industrial-rectangular-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Madera Blanco E5 Carilux,70995.0,35497.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-e27-paraiso-blanc-1367878/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Madera Negro Paraíso Carilux,73995.0,36997.5,50.0,https://www.easy.com.ar/lamp--escritorio-nordica-e27-paraiso-ng-1367877/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador con Pantalla E27 Gris Cr8821-28-46 San Justo,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-gris-1367314/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador con Pantalla E27 Gris Cr8821-28-45 San Justo,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-camaño-1367313/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa con Pantalla E27 Negro San Justo,50995.0,25497.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-negro-1367312/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa E27 Blanco San Justo,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-blanco-1367311/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro Cobre San Justo,52995.0,26497.5,50.0,https://www.easy.com.ar/lamp--escritorio-embudo-e27-negro-cobre-1367310/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Blanco Cobre Os8920-51 San Justo,52995.0,26497.5,50.0,https://www.easy.com.ar/lamp--escritorio-embudo-e27-blanco-cobr-1367309/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Beige Velador Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/lamp--escritorio-ibla-e27-beige-1366391/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Gris Velador Don Bell,56995.0,28497.5,50.0,https://www.easy.com.ar/lamp--escritorio-ibla-e27-gris-1366390/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Gris Bronce Don Bell,57795.0,28897.5,50.0,https://www.easy.com.ar/lamp--escritorio-colonia-e27-gris-bronc-1366388/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Verde Bronce Velador Don Bell,57795.0,28897.5,50.0,https://www.easy.com.ar/lamp--escritorio-colonia-e27-verd-bronc-1366387/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Globo G9 Bronce Negro Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-vintage-globo-1l-g9-brce-negro-1366177/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa Globo G9 Beige Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/velador-teen-globo-1l-g9-beige-1366176/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro Velador Don Bell,56995.0,28497.5,50.0,https://www.easy.com.ar/lamp--escritorio-ibla-e27-negro-1366130/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa E27 Negro Cerámica Don Bell,86795.0,43397.5,50.0,https://www.easy.com.ar/velador-e27-ceramica-nga-pant-negra-1366127/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Blanco Bronce Velador Don Bell,57795.0,28897.5,50.0,https://www.easy.com.ar/lamp--escritorio-colonia-e27-bco-bronce-1366126/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio G9 Platil Esfera Don Bell,108995.0,54497.5,50.0,https://www.easy.com.ar/lamp--escritorio-esfera-g9-platil-1366125/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio G9 Negro Don Bell,100295.0,50147.5,50.0,https://www.easy.com.ar/lamp--escritorio-esfera-g9-negro-1366124/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Gris Don Bell,99195.0,49597.5,50.0,https://www.easy.com.ar/lamp--escritorio-fase-e27-platil-1366123/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Blanco Don Bell,70895.0,35447.5,50.0,https://www.easy.com.ar/lamp--escritorio-fase-e27-blanco-1366121/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio E27 Negro Don Bell,70895.0,35447.5,50.0,https://www.easy.com.ar/lamp--escritorio-fase-e27-negro-1366120/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio G9 Negro Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-negro-1366118/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio G9 Blanco Flex Don Bell,60795.0,30397.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-blanco-1366117/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio G9 Cobre Mate Don Bell,75295.0,37647.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-cobre-mate-1366116/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio G9 Gris Flex Don Bell,75295.0,37647.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-platil-1366115/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Spot Led 1 Luz GU10 Negro JC Iluminación,12995.0,6497.5,50.0,https://www.easy.com.ar/spot-dicro-1l-gu10-cabezal-negro-1357812/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Plafón Led Redondo 1 Luz Cálida 24 W Blanco Candela,17495.0,8747.5,50.0,https://www.easy.com.ar/led-plafon-redondo-emb-24w-calido-1357358/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara de Pie Tripode E27 Negro Dorado San Justo,232095.0,116047.5,50.0,https://www.easy.com.ar/velador-trip-c-pant-media-esfer-ngo-cob-1348935/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa Globo E27 Bronce Vintage Don Bell,81795.0,40897.5,50.0,https://www.easy.com.ar/velador-vintage-globo-gold-1l-e27-bronc-1348030/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara de Pie G9 2 Luces Bronce Don Bell,205295.0,102647.5,50.0,https://www.easy.com.ar/lamp--pie-vintage-2l-g9-bronce-1348027/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara de Pie 1 Luz E27 Bronce Don Bell,174695.0,87347.5,50.0,https://www.easy.com.ar/lamp--pie-vintage-1l-e27-bronce-1348025/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Techo 2 Luces GU10 Cobre Mate Don Bell,78995.0,39497.5,50.0,https://www.easy.com.ar/liston-2l-gu10-base-rect-40cm-cobre-mat-1347912/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa G9 Gris Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/velador-teen-globo-1l-e27-gris-1347903/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa E27 Rosa Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/velador-teen-globo-1l-e27-rosa-1347902/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Trípode GU10 Madera Negro 1121 Carilux,72995.0,36497.5,50.0,https://www.easy.com.ar/velador-paraiso-1l-gu10-madera-negro-1347351/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Spot Led 1 Luz GU10 Gris JS Iluminación,48995.0,24497.5,50.0,https://www.easy.com.ar/spot-omega-1l-gu10-cab--508-platil-1339000/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio LED Base RGB Blanca IL-VEL.DL037-B Probattery,32990.0,16495.0,50.0,https://www.easy.com.ar/lamp-esc-led-gamer-base-luminosa---usb-1332678/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Led Luz Fría 3 W Rosa Il-vel.dl009-r Probattery,19995.0,9997.5,50.0,https://www.easy.com.ar/lamp-esc-led-liner-3-intens---usb-rosa-1332675/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Led Luz Fría 3 W Blanco IL-VEL.DL009-B Probattery,20595.0,10297.5,50.0,https://www.easy.com.ar/lamp-esc-led-liner-3-intens---usb-bco-1332674/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio LED USB 3 W Luz Fría Negro Il-vel.dl022-n Probattery,23695.0,11847.5,50.0,https://www.easy.com.ar/lamp-esc-led-aro-3-intensid---usb-negro-1332673/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Led Aro Luz Fría 3 W Blanco Il-vel.dl022-b Probattery,23695.0,11847.5,50.0,https://www.easy.com.ar/lamp-esc-led-aro-3-intensid---usb-bco-1332672/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Aplique Pared 1 Luz E27 Negro JC Iluminación,36995.0,18497.5,50.0,https://www.easy.com.ar/aplique-int-candil-1l-e27-ngo-text/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Plafón Led Cuadrado Embutible 10 Luces Luz Cálida 18 W Aluminio Blanco Candela,10995.0,5497.5,50.0,https://www.easy.com.ar/led-plafon-cuadrad-embutible-18w-calido/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Vintage Globo G9 Gris Bronce Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-vintage-globo-1l-e27-brce-gris/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa Globo G9 Beige Vintage Don Bell,76295.0,38147.5,50.0,https://www.easy.com.ar/velador-vintage-globo-1l-e27-brce-beige/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Trípode E27 Negro Futurama San Justo,60895.0,30447.5,50.0,https://www.easy.com.ar/velador-futurama-1l-e27-ngo-tx/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Trípode 1 Luz E27 Blanco San Justo,60895.0,30447.5,50.0,https://www.easy.com.ar/velador-futurama-1l-e27-bco-tx/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador con Pantalla E27 Beige Circular Monteluz,33995.0,16997.5,50.0,https://www.easy.com.ar/velador-gatria2-1l-e27-dorado-pant-beig/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Escritorio Led Luz Neutra 3.5 W Blanca Flexible Sica,37995.0,18997.5,50.0,https://www.easy.com.ar/lamp-escritorio-led-3-5w-bca-l--neutra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa G9 Gris Finlandia Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-finlandia-1l-e27-platil-30cm-1308094/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa Articulado G9 15 W Cobre Finlandia Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-finlandia-1l-e27-cobre-30cm-1308093/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador con Pantalla E27 Gris Circular Monteluz,31295.0,15647.5,50.0,https://www.easy.com.ar/velador-gatria2-1l-e27-bco-pant-gris/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Mesa E27 Negro Circular Monteluz,34425.0,17212.5,50.0,https://www.easy.com.ar/velador-gatria2-1l-e27-ngo-pant-nga/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Pie Trípode Madera E27 Blanco 1131 Carilux,211795.0,105897.5,50.0,https://www.easy.com.ar/lamp--de-pie-tripode-nordica-paraiso/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Lámpara Mesa Trípode E27 Marrón 1131 Carilux,89695.0,44847.5,50.0,https://www.easy.com.ar/lamp--de-mesa-tripode-nordica-paraiso-1278384/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Listón Led 18 W Blanco Spotsline,36295.0,18147.5,50.0,https://www.easy.com.ar/liston-t-led-1x18w-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Honguito E27 1 Luz Naranja 13 W Abitare,25995.0,12997.5,50.0,https://www.easy.com.ar/lampara-velador-honguito-e27-13w-1-luz-naranja-abitare-1158535/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Spot Led Embutir Redondo Luz Cálida 18 W Ultradelgado SICA,11615.0,5807.5,50.0,https://www.easy.com.ar/spot-emb-led-redond-18w-calido-ultradel/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Velador Honguito E27 1 Luz Verde 13 W Abitare,25995.0,12997.5,50.0,https://www.easy.com.ar/lampara-velador-honguito-e27-13w-1-luz-verde-abitare-1144603/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior,Aplique Interior 1 Luz E27 Blanco Chapa Balucce,37995.0,18997.5,50.0,https://www.easy.com.ar/aplique-inc-1l-chapa-eco-c-tulipa-carla/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,lamp mesa 1l sinni e27 ar,49995.0,24997.5,50.0,https://www.easy.com.ar/lamp-mesa-1l-sinni-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Pack 2 Lámparas de Mesa con Pantalla E14 Blanco Aznar M+Design,59995.0,29997.5,50.0,https://www.easy.com.ar/pack-2-lamp-mesa-aznar-e14-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara de Pie 1 Luz Aurora E27 M+Design,109995.0,54997.5,50.0,https://www.easy.com.ar/lamp-pie-1l-aurora-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio Led Regulable 1 Luz Dorado Nl23 Helles Haus,34995.0,17497.5,50.0,https://www.easy.com.ar/lamp-led-de-intensidad-regulable-golden/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,"Lámpara Infantil Conejo Luz Cálida 2,5 W Táctil Recargable ML10 Helles Haus",30995.0,15497.5,50.0,https://www.easy.com.ar/luz-infantil-nocturna-conejo/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Led Esfera RGB 1 Luz Blanco Esfera Hants,34995.0,17497.5,50.0,https://www.easy.com.ar/velador-led-esfera-rgb-1l-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Capsula Cristal Con Luces LED Hants,15995.0,7997.5,50.0,https://www.easy.com.ar/velador-capsula-cristal-c-luces-led/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Infantil Led Luz Cálida 2.5 W Táctil Silicona Ml10 Helles Haus,30995.0,15497.5,50.0,https://www.easy.com.ar/luz-infantil-nocturna-fruta/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio E27 Beige Yigo Don Bell,68995.0,34497.5,50.0,https://www.easy.com.ar/velador-yigo-beige-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Plafón Smart+ WiFi RGBW 15 W 1200 Lm Blanco Downlight Ledvance,69995.0,34997.5,50.0,https://www.easy.com.ar/downlight-smart--wifi-15w-100-240v-rgbw/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara de Pie 2 Luces E27 Negro Eolo Don Bell,178995.0,89497.5,50.0,https://www.easy.com.ar/lamp-pie-eolo-2l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio Led Regulable 1 Luz Plateado Nl23 Helles Haus,32995.0,16497.5,50.0,https://www.easy.com.ar/lamp-led-de-intensidad-regulable-silver/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio 2 Luces E27 Verde Budy Text Don Bell,78745.0,39372.5,50.0,https://www.easy.com.ar/velador-budy-2l-text-verde-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio E27 Negro 1131 Trento Carilux,68995.0,34497.5,50.0,https://www.easy.com.ar/velador-trento-con-pantalla/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara de Pie Totem E27 Marrón Elkavellovet Elkas,82995.0,41497.5,50.0,https://www.easy.com.ar/lamp--de-pie-totem-mdf-1l-e27-madera/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara de Pie 1 Luz E27 Marrón Kraft Elkas,159995.0,79997.5,50.0,https://www.easy.com.ar/lamp--de-pie-lucas-kraft-1l-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara de Pie E27 Madera Natural Pantalla Negra Carilux,158995.0,79497.5,50.0,https://www.easy.com.ar/lamp--de-pie-joana-1l-e27-peteribi/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio Led Luz Cálida 4 W Blanca Macroled,67995.0,33997.5,50.0,https://www.easy.com.ar/velador-minerva-multifuncion-1l-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Aluminio 1 Luz Led Dorada Lujo Hants,32995.0,16497.5,50.0,https://www.easy.com.ar/velador-aluminio-1l-led-dorada/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Multicolor Con Control Remoto 1 Luz Blanco Touch Hants,27995.0,13997.5,50.0,https://www.easy.com.ar/velador-multicolor-c-control-1l-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,"Lámpara Infantil Led Dinosaurio Luz Cálida Fría RGB 1,5 W Ilra-Dino Probattery",43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-dino/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,"Lámpara Infantil Led 0,8 W Luz Cálida Fría RGB Pingüino Blanco Probattery",43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-pinguino/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio G9 Negro Peek Text Don Bell,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-peek-text-negro-g9/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio E27 Negro Yigo Don Bell,68995.0,34497.5,50.0,https://www.easy.com.ar/velador-yigo-text-negro-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio E27 Negro 5350 Faroluz,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-moderno-media-esfera-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio E27 Marrón 5350 Faroluz,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-moderno-media-esfera-tierra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa Media Esfera E27 Beige 5350 Faroluz,84995.0,42497.5,50.0,https://www.easy.com.ar/velador-moderno-media-esfera-crema/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Alambre Kraft E27 Negro Elkavelfearless Elkas,55995.0,27997.5,50.0,https://www.easy.com.ar/velador-karft-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Travis Kraft 1 Luz E27 Elkas,54995.0,27497.5,50.0,https://www.easy.com.ar/velador-kraft-marron/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador con Pantalla E27 Marrón Elkavelgorgeous Elkas,64995.0,32497.5,50.0,https://www.easy.com.ar/velador-kraft-con-pantalla/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Infantil G10Q Marrón Firu-Michi Carilux,49890.0,24945.0,50.0,https://www.easy.com.ar/velador-michi/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador LED con Reloj Despertador Luz Cálida 5 W Blanco Vulcano Macroled,172995.0,86497.5,50.0,https://www.easy.com.ar/velador-vulcano-reloj-despertador-macroled/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador con Parlante Bluetooth Luz Cálida Blanco Baco Macroled,144595.0,72297.5,50.0,https://www.easy.com.ar/velador-baco-con-parlante-bluetooth/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Trípode Malla E27 Negro EA9000-02 Avanti,58995.0,29497.5,50.0,https://www.easy.com.ar/velador-industrial-malla-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Pie E27 Blanco Pirámide Mon-Can,86495.0,43247.5,50.0,https://www.easy.com.ar/velador-piramide-gab-negro-1l-e27-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Escritorio E27 Negro Pirámide Mon-Can,86495.0,43247.5,50.0,https://www.easy.com.ar/velador-piramide-gab-negro-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio Arpillera E27 Marrón Circular Mon-Can,49895.0,24947.5,50.0,https://www.easy.com.ar/velador-arpillera-1l-e27-natural/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Trípode Blanco Micro Pantalla Cilíndrica E27 Iluminacion Jc,50860.0,25430.0,50.0,https://www.easy.com.ar/velador-tripode-c-pant-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Trípode Con Pantalla Cilíndrica E27 Blanco Iluminacion Jc,56695.0,28347.5,50.0,https://www.easy.com.ar/velador-tripode-c-pant-1l-e27-crudo/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Trípode E27 1 Luz Negro Apolo Iluminación Jc,54995.0,27497.5,50.0,https://www.easy.com.ar/velador-tripode-apolo-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Metal E27 Negro Cobra Iluminación Jc,53980.0,26990.0,50.0,https://www.easy.com.ar/velador-cobra-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio GU10 Negro 5212 Faroluz,57995.0,28997.5,50.0,https://www.easy.com.ar/velador-marco-1l-gu10-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio E27 Grafito 5211/D Faroluz,50395.0,25197.5,50.0,https://www.easy.com.ar/velador-roque-1l-e27-grafito/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Escritorio E27 Marrón 5211 Faroluz,44995.0,22497.5,50.0,https://www.easy.com.ar/velador-roque-1l-e27-tierra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa E27 Blanco 5211/D Faroluz,50395.0,25197.5,50.0,https://www.easy.com.ar/velador-roque-1l-e27-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa GU10 Madera Natural Firu Carilux,52995.0,26497.5,50.0,https://www.easy.com.ar/velador-firulay-1l-gu10-madera/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Led RGB Recargable 5 W Gatito Blanco Probattery,43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-gatito/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Infantil RGB Recargable Unicornio Probattery,43995.0,21997.5,50.0,https://www.easy.com.ar/velador-infantil-recargable-rgb-unicorni/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara de Pie 3 Luces E27 Negro Vintage Don Bell,264995.0,132497.5,50.0,https://www.easy.com.ar/lamp--de-pie-vintage-3l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Recto E27 Negro Base Monteluz,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-recto-e27-base-negra-pant-negra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa E27 Negro Oval Monteluz,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-oval-e27-base-negra-pant-negra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador con Pantalla E27 Blanco Circular Monteluz,46195.0,23097.5,50.0,https://www.easy.com.ar/velador-jaula-e27-base-negra-pant-blanca/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Jaula E27 Negro Circular Monteluz,43995.0,21997.5,50.0,https://www.easy.com.ar/velador-jaula-e27-base-negra-pant-negra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Base Recta E27 Rústico Gris Mon-Can,67425.0,33712.5,50.0,https://www.easy.com.ar/velador-recto-e27-base-oxido-pant-rustic/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa E27 Marrón Oval Monteluz,61295.0,30647.5,50.0,https://www.easy.com.ar/velador-oval-e27-base-oxido-pant-rustica/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa E27 Negro Rectangular Monteluz,59495.0,29747.5,50.0,https://www.easy.com.ar/velador-industrial-rectangular-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador con Pantalla E27 Gris Cr8821-28-46 San Justo,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-gris-1367314/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador con Pantalla E27 Gris Cr8821-28-45 San Justo,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-camaño-1367313/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa con Pantalla E27 Negro San Justo,50995.0,25497.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-negro-1367312/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa E27 Blanco San Justo,53995.0,26997.5,50.0,https://www.easy.com.ar/velador-libertad-base-plata-e27-blanco-1367311/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Globo G9 Bronce Negro Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-vintage-globo-1l-g9-brce-negro-1366177/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa Globo G9 Beige Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/velador-teen-globo-1l-g9-beige-1366176/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa E27 Negro Cerámica Don Bell,86795.0,43397.5,50.0,https://www.easy.com.ar/velador-e27-ceramica-nga-pant-negra-1366127/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara de Pie Tripode E27 Negro Dorado San Justo,232095.0,116047.5,50.0,https://www.easy.com.ar/velador-trip-c-pant-media-esfer-ngo-cob-1348935/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa Globo E27 Bronce Vintage Don Bell,81795.0,40897.5,50.0,https://www.easy.com.ar/velador-vintage-globo-gold-1l-e27-bronc-1348030/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara de Pie G9 2 Luces Bronce Don Bell,205295.0,102647.5,50.0,https://www.easy.com.ar/lamp--pie-vintage-2l-g9-bronce-1348027/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara de Pie 1 Luz E27 Bronce Don Bell,174695.0,87347.5,50.0,https://www.easy.com.ar/lamp--pie-vintage-1l-e27-bronce-1348025/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa G9 Gris Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/velador-teen-globo-1l-e27-gris-1347903/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa E27 Rosa Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/velador-teen-globo-1l-e27-rosa-1347902/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Trípode GU10 Madera Negro 1121 Carilux,72995.0,36497.5,50.0,https://www.easy.com.ar/velador-paraiso-1l-gu10-madera-negro-1347351/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Vintage Globo G9 Gris Bronce Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-vintage-globo-1l-e27-brce-gris/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa Globo G9 Beige Vintage Don Bell,76295.0,38147.5,50.0,https://www.easy.com.ar/velador-vintage-globo-1l-e27-brce-beige/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Trípode E27 Negro Futurama San Justo,60895.0,30447.5,50.0,https://www.easy.com.ar/velador-futurama-1l-e27-ngo-tx/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Trípode 1 Luz E27 Blanco San Justo,60895.0,30447.5,50.0,https://www.easy.com.ar/velador-futurama-1l-e27-bco-tx/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador con Pantalla E27 Beige Circular Monteluz,33995.0,16997.5,50.0,https://www.easy.com.ar/velador-gatria2-1l-e27-dorado-pant-beig/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa G9 Gris Finlandia Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-finlandia-1l-e27-platil-30cm-1308094/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa Articulado G9 15 W Cobre Finlandia Don Bell,65395.0,32697.5,50.0,https://www.easy.com.ar/velador-finlandia-1l-e27-cobre-30cm-1308093/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador con Pantalla E27 Gris Circular Monteluz,31295.0,15647.5,50.0,https://www.easy.com.ar/velador-gatria2-1l-e27-bco-pant-gris/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Mesa E27 Negro Circular Monteluz,34425.0,17212.5,50.0,https://www.easy.com.ar/velador-gatria2-1l-e27-ngo-pant-nga/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Pie Trípode Madera E27 Blanco 1131 Carilux,211795.0,105897.5,50.0,https://www.easy.com.ar/lamp--de-pie-tripode-nordica-paraiso/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Lámpara Mesa Trípode E27 Marrón 1131 Carilux,89695.0,44847.5,50.0,https://www.easy.com.ar/lamp--de-mesa-tripode-nordica-paraiso-1278384/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Honguito E27 1 Luz Naranja 13 W Abitare,25995.0,12997.5,50.0,https://www.easy.com.ar/lampara-velador-honguito-e27-13w-1-luz-naranja-abitare-1158535/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,Velador Honguito E27 1 Luz Verde 13 W Abitare,25995.0,12997.5,50.0,https://www.easy.com.ar/lampara-velador-honguito-e27-13w-1-luz-verde-abitare-1144603/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Negro Valencia M+Design,39995.0,19997.5,50.0,https://www.easy.com.ar/lamp-de-esc-valencia-2-0-1l-e27-negro-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,lamp dibujo 2.0 1l movible negra ar,39995.0,19997.5,50.0,https://www.easy.com.ar/lamp-dibujo-2-0-1l-movible-negra-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Blanco Valencia M+Design,39995.0,19997.5,50.0,https://www.easy.com.ar/lamp-de-esc-valencia-2-0-1l-e27-blanc-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lampara De Escritorio Led De Cuello Flexible 50 Leds Blanco Probattery,44995.0,22497.5,50.0,https://www.easy.com.ar/lampara-led-recargable-de-cuello-flexible-50-leds-color-blanco---luza-calida-y-fria-con-intensidad-regulaboe/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio Led Integrado Cuello Flexible Luz Cálida y Fría 7 W Blanco Probattery,19995.0,9997.5,50.0,https://www.easy.com.ar/lampara-led-recargable-de-cuello-flexible-20-leds-color-blanco---luza-calida-y-fria-3-posiciones-/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,lamp escr 1l lince e27 negro ar,29995.0,14997.5,50.0,https://www.easy.com.ar/lamp-escr-1l-lince-e27-negro-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio con Pinza E27 Negro Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-ngo/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio Led 3.5 W Plata Luz Neutra Sica,34995.0,17497.5,50.0,https://www.easy.com.ar/lamp-escritorio-led-3-5w-plata-l--neutr/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio con Pinza E27 Blanco Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-bco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Beige Blush Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-blush-beige-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Gris Blush Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-blush-gris-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara De Escritorio Theia Text Blanco E27 Don Bell,59995.0,29997.5,50.0,https://www.easy.com.ar/lampara-de-escrit--theia-text-blanco-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Rosa Flip Don Bell,51995.0,25997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-flip-salmon-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara De Escritorio Theia Text Negro E27 Don Bell,59995.0,29997.5,50.0,https://www.easy.com.ar/lampara-de-escrit-theia-text-negro-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio Flip 1 Luz E27 Verde Agua Don Bell,54995.0,27497.5,50.0,https://www.easy.com.ar/lampara-de-escrit--flip-verde-agua-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio Flip 1 Luz E27 Beige Don Bell,54995.0,27497.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-flip-beige-e27/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Negro E1-Golfo Carilux,58995.0,29497.5,50.0,https://www.easy.com.ar/lamp--de-escritorio-golfo-negra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio LED Menta Galva Abitare,39500.0,19750.0,50.0,https://www.easy.com.ar/lamp-escr-led-galva-menta-4000k-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio Led 6 W Luz Cálida Negro Juno Macroled,67995.0,33997.5,50.0,https://www.easy.com.ar/lampara-de-escritorio-juno-negra-1l/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Negro Madera Patik Don Bell,64995.0,32497.5,50.0,https://www.easy.com.ar/lamp-escritorio-patik-1l-e27-ngo-mad/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Gris Madera Patik Don Bell,64995.0,32497.5,50.0,https://www.easy.com.ar/lamp-escritorio-patik-1l-e27-bco-mad/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Gris Patik Don Bell,55595.0,27797.5,50.0,https://www.easy.com.ar/lamp-escritorio-patik-1l-e27-gris-mad/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Negra Mecha Don Bell,53095.0,26547.5,50.0,https://www.easy.com.ar/lamp-escritorio-mech-1l-e27-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Blanco Mech Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/lamp-escritorio-mech-1l-e27-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Dorado Mech Don Bell,64795.0,32397.5,50.0,https://www.easy.com.ar/lamp-escritorio-mech-1l-e27-bronce/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio Con Pinza E27 Azul Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-azul/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Rosa Labe Don Bell,32695.0,16347.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-pinza-labe-1l-e27-salm/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Beige Con Lapicero Don Bell,46000.0,23000.0,50.0,https://www.easy.com.ar/lamp-escritorio-c-lapicero-1l-e27-beige/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Aqua Lapicero Don Bell,39295.0,19647.5,50.0,https://www.easy.com.ar/lamp-escritorio-c-lapicero-1l-e27-aqua/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Rosa Con Lapicero Don Bell,46000.0,23000.0,50.0,https://www.easy.com.ar/lamp-escritorio-c-lapicero-1l-e27-rosa/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Negro Campo Don Bell,59995.0,29997.5,50.0,https://www.easy.com.ar/lamp-escritorio-campo-1l-e27-ngo-txt/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Blanco Campo Don Bell,52395.0,26197.5,50.0,https://www.easy.com.ar/lamp-escritorio-campo-1l-e27-bco-txt/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Negro AO Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/lamp-escritorio-valu-1l-e27-negro-txt/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio 1 Luz E27 Negro Don Bell,51295.0,25647.5,50.0,https://www.easy.com.ar/lamp-escritorio-belu-1l-e27-negro-txt/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Blanco Madera A43 Carilux,80995.0,40497.5,50.0,https://www.easy.com.ar/lamp-escritorio-roma-1l-e27-bco-mad/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Negro Madera A43 Carilux,80995.0,40497.5,50.0,https://www.easy.com.ar/lamp-escritorio-roma-1l-e27-ngo-mad/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Madera Blanco E5 Carilux,70995.0,35497.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-e27-paraiso-blanc-1367878/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Madera Negro Paraíso Carilux,73995.0,36997.5,50.0,https://www.easy.com.ar/lamp--escritorio-nordica-e27-paraiso-ng-1367877/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Negro Cobre San Justo,52995.0,26497.5,50.0,https://www.easy.com.ar/lamp--escritorio-embudo-e27-negro-cobre-1367310/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Blanco Cobre Os8920-51 San Justo,52995.0,26497.5,50.0,https://www.easy.com.ar/lamp--escritorio-embudo-e27-blanco-cobr-1367309/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Beige Velador Don Bell,49095.0,24547.5,50.0,https://www.easy.com.ar/lamp--escritorio-ibla-e27-beige-1366391/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Gris Velador Don Bell,56995.0,28497.5,50.0,https://www.easy.com.ar/lamp--escritorio-ibla-e27-gris-1366390/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Gris Bronce Don Bell,57795.0,28897.5,50.0,https://www.easy.com.ar/lamp--escritorio-colonia-e27-gris-bronc-1366388/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Verde Bronce Velador Don Bell,57795.0,28897.5,50.0,https://www.easy.com.ar/lamp--escritorio-colonia-e27-verd-bronc-1366387/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Negro Velador Don Bell,56995.0,28497.5,50.0,https://www.easy.com.ar/lamp--escritorio-ibla-e27-negro-1366130/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Blanco Bronce Velador Don Bell,57795.0,28897.5,50.0,https://www.easy.com.ar/lamp--escritorio-colonia-e27-bco-bronce-1366126/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio G9 Platil Esfera Don Bell,108995.0,54497.5,50.0,https://www.easy.com.ar/lamp--escritorio-esfera-g9-platil-1366125/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio G9 Negro Don Bell,100295.0,50147.5,50.0,https://www.easy.com.ar/lamp--escritorio-esfera-g9-negro-1366124/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Gris Don Bell,99195.0,49597.5,50.0,https://www.easy.com.ar/lamp--escritorio-fase-e27-platil-1366123/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Blanco Don Bell,70895.0,35447.5,50.0,https://www.easy.com.ar/lamp--escritorio-fase-e27-blanco-1366121/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio E27 Negro Don Bell,70895.0,35447.5,50.0,https://www.easy.com.ar/lamp--escritorio-fase-e27-negro-1366120/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio G9 Negro Don Bell,55995.0,27997.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-negro-1366118/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio G9 Blanco Flex Don Bell,60795.0,30397.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-blanco-1366117/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio G9 Cobre Mate Don Bell,75295.0,37647.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-cobre-mate-1366116/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio G9 Gris Flex Don Bell,75295.0,37647.5,50.0,https://www.easy.com.ar/lamp--escritorio-flex-g9-platil-1366115/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio LED Base RGB Blanca IL-VEL.DL037-B Probattery,32990.0,16495.0,50.0,https://www.easy.com.ar/lamp-esc-led-gamer-base-luminosa---usb-1332678/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio Led Luz Fría 3 W Rosa Il-vel.dl009-r Probattery,19995.0,9997.5,50.0,https://www.easy.com.ar/lamp-esc-led-liner-3-intens---usb-rosa-1332675/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio Led Luz Fría 3 W Blanco IL-VEL.DL009-B Probattery,20595.0,10297.5,50.0,https://www.easy.com.ar/lamp-esc-led-liner-3-intens---usb-bco-1332674/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio LED USB 3 W Luz Fría Negro Il-vel.dl022-n Probattery,23695.0,11847.5,50.0,https://www.easy.com.ar/lamp-esc-led-aro-3-intensid---usb-negro-1332673/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio Led Aro Luz Fría 3 W Blanco Il-vel.dl022-b Probattery,23695.0,11847.5,50.0,https://www.easy.com.ar/lamp-esc-led-aro-3-intensid---usb-bco-1332672/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-escritorio,Lámpara Escritorio Led Luz Neutra 3.5 W Blanca Flexible Sica,37995.0,18997.5,50.0,https://www.easy.com.ar/lamp-escritorio-led-3-5w-bca-l--neutra/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Colgante 1 Luz E27 Negro Tebas M+Design,29995.0,14997.5,50.0,https://www.easy.com.ar/lamp-colgar-1l-tebas-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Colgante 1 Luz E27 Amarillo Calisto M+Design,59995.0,29997.5,50.0,https://www.easy.com.ar/lamp-colgar-1l-calisto-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Colgante 6 Luces E27 Dorado Acrux M+Design,134995.0,67497.5,50.0,https://www.easy.com.ar/lamp-colgar-6l-acrux-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,spot 3l gu10 adela ar,49995.0,24997.5,50.0,https://www.easy.com.ar/spot-3l-gu10-adela-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Plafón Cuadrado 1 Luz E27 Surtido M+Design,29995.0,14997.5,50.0,https://www.easy.com.ar/plafon-cuad-diseños-1l-e27-ar/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Colgante Regleta 3 Luces G9 Negro ES941-3CO JS Iluminación,91995.0,45997.5,50.0,https://www.easy.com.ar/colgante-lola-regleta-3l-gu9-negro/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Aplique Redondo 1 Luz GU10 Cobre Mate Don Bell,33995.0,16997.5,50.0,https://www.easy.com.ar/aplique-1l-gu10-base-redon-cobre-mate-1347911/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,colgante bamboo capelina 1l e27 lumi,132000.0,66000.0,50.0,https://www.easy.com.ar/colgante-bamboo-capelina-1l-e27-lumi/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Colgante Yute 1 Luz E27 Beige Negro Elkalampyyn Elkas,89995.0,44997.5,50.0,https://www.easy.com.ar/colgante-alsa-1l-e27-yute/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Spot Led 1 Luz GU10 Negro JC Iluminación,12995.0,6497.5,50.0,https://www.easy.com.ar/spot-dicro-1l-gu10-cabezal-negro-1357812/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Plafón Led Redondo 1 Luz Cálida 24 W Blanco Candela,17495.0,8747.5,50.0,https://www.easy.com.ar/led-plafon-redondo-emb-24w-calido-1357358/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Lámpara Techo 2 Luces GU10 Cobre Mate Don Bell,78995.0,39497.5,50.0,https://www.easy.com.ar/liston-2l-gu10-base-rect-40cm-cobre-mat-1347912/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Spot Led 1 Luz GU10 Gris JS Iluminación,48995.0,24497.5,50.0,https://www.easy.com.ar/spot-omega-1l-gu10-cab--508-platil-1339000/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Aplique Pared 1 Luz E27 Negro JC Iluminación,36995.0,18497.5,50.0,https://www.easy.com.ar/aplique-int-candil-1l-e27-ngo-text/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Plafón Led Cuadrado Embutible 10 Luces Luz Cálida 18 W Aluminio Blanco Candela,10995.0,5497.5,50.0,https://www.easy.com.ar/led-plafon-cuadrad-embutible-18w-calido/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Listón Led 18 W Blanco Spotsline,36295.0,18147.5,50.0,https://www.easy.com.ar/liston-t-led-1x18w-blanco/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Spot Led Embutir Redondo Luz Cálida 18 W Ultradelgado SICA,11615.0,5807.5,50.0,https://www.easy.com.ar/spot-emb-led-redond-18w-calido-ultradel/p
+2026-08-31T18:36:59,/iluminacion/iluminacion-interior/lamparas-de-techo-y-pared,Aplique Interior 1 Luz E27 Blanco Chapa Balucce,37995.0,18997.5,50.0,https://www.easy.com.ar/aplique-inc-1l-chapa-eco-c-tulipa-carla/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Césped Sintético Verde 30x30 Cm 35 Mm Baldara,93000.0,46500.0,50.0,https://www.easy.com.ar/pasto-sintetico-30x30-cm-baldara-1448077/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Porcelanato 25x150 Cm Mod.q251505 c/1.50m2 Foshan,73492.5,22047.75,70.0,https://www.easy.com.ar/porc-25x150-mod-q251505-c-1-50m2-1321004/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Porcelanato 25x150 Cm Simil Madera Foshan,74992.5,22497.75,70.0,https://www.easy.com.ar/porc-25x150-mod-q251503-c-1-50m2-1321003/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Porcelanato 14.5X14.5 Cm Azul Atol Barra Pointer,33690.0,10107.0,70.0,https://www.easy.com.ar/atol-barra-14-5x14-5-br-1-04-60/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Porcelanato 14.5X14.5 Cm Azul Atol Patacho Pointer,33690.0,10107.0,70.0,https://www.easy.com.ar/atol-patacho-14-5x14-5-ext-1-04-60/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Césped Sintético Verde 30x30 Cm 20 Mm Baldara,90000.0,45000.0,50.0,https://www.easy.com.ar/pasto-sintetico-30x30-cm-baldara-1448074/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Césped Sintético Verde 40 Mm 30x30 Cm Baldara,95000.0,47500.0,50.0,https://www.easy.com.ar/pasto-sintetico-30x30-cm-baldara-1448073/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Listel Plata 2.5X30 Cm (1.5 Mts) San Giovanni,9893.0,2967.9,70.0,https://www.easy.com.ar/guarda-listel-plata-2-5x30-1-5-metros/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Listel Blanco 2.5X30 Cm (1.5 Mts) San Giovanni,10493.0,3147.9,70.0,https://www.easy.com.ar/guarda-listel-blanco-2-5x30-1-5-metros/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Violeta 30X1500 Mm San Giovanni,7495.0,2248.5,70.0,https://www.easy.com.ar/guarda-hoja-3-x-30-viola/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Piedra Marfil 7.5X30 Cm San Giovanni,16995.0,5098.5,70.0,https://www.easy.com.ar/guarda-piedra-7-5-x-30-marfil/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Piedra Negro 7.5X30 Cm San Giovanni,18360.0,5508.0,70.0,https://www.easy.com.ar/guarda-piedra-7-5-x-30-negro/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Amarillo 47X1500 Mm San Giovanni,10795.0,3238.5,70.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-amarillo/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Gris 5X30 Cm Vidrio San Giovanni,12995.0,3898.5,70.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-gris/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Azul 1.5X0.05 Mts San Giovanni,9795.0,2938.5,70.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-azul/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,"Guarda Brige 1,5X2,5 Cm San Giovanni",13995.0,4198.5,70.0,https://www.easy.com.ar/guarda-ranurada-cotto-terra/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Malla I Colori Verde 6.5x150 Cm San Giovanni,20995.0,6298.5,70.0,https://www.easy.com.ar/malla-i-colori-bianco-verde-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Malla I Colori Verde Argento 6.5X150 Cm San Giovanni,15995.0,4798.5,70.0,https://www.easy.com.ar/malla-i-colori-verde-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Malla I Colori Azul 1.5X6.5 Cm San Giovanni,17995.0,5398.5,70.0,https://www.easy.com.ar/malla-i-colori-azurro-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Malla I Colori Blanco y Azul 6.5X150 Cm San Giovanni,20995.0,6298.5,70.0,https://www.easy.com.ar/malla-i-colori-bianco-azurro-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guardacantos Celeste 3.75X30 Cm San Giovanni,9743.0,2922.9,70.0,https://www.easy.com.ar/guarda-venecia-turquesa-3-75x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guardacantos Blanco 3.75X30 Cm Venecia San Giovanni,11010.0,3303.0,70.0,https://www.easy.com.ar/guarda-venecia-blanco-3-75x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guardacantos Rojo 3.75X30 Cm San Giovanni,8243.0,2472.9,70.0,https://www.easy.com.ar/guarda-venecia-rojo-3-75x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guardacantos Beige 7.5X30 Cm Senza Fine San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-senza-fine-beige-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Hexagonal Blanco 7.5X30 Cm San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-hexagono-blanco-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Hexagonal Negro 7.5X30 Cm San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-hexagono-negro-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guardacantos Beige 7.5X30 Cm Natura San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-natura-beige-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guardacantos Blanco 7.5X30 Cm San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-natura-blanco-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guardacantos Negro 7.5X30 Cm Natura San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-natura-negro-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Piso Cementado 40X40 Cm Negro Razzante,6465.0,1939.5,70.0,https://www.easy.com.ar/paq-recto-grande-neg-40x40x0-48m2xp80-1348468/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Porcelanato 75x150 Cm Gris Mod.Ms-Th751506 Foshan,105286.5,52643.25,50.0,https://www.easy.com.ar/porc-75x150-mod-ms-th751506-c-2-25m2/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guardacanto Beige 7.5X30 Cm Gruppo Pietrabella,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-cocina-beige-marro-7-5x30-1-50-1-1343158/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Negro Blanco Hora del Té Gruppo Pietrabella,19440.0,5832.0,70.0,https://www.easy.com.ar/guarda-cocina-negro-bco-7-5x30-1-50-10-1343157/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Cocina Blanco y Negro Vidrio Gruppo Pietrabella,19440.0,5832.0,70.0,https://www.easy.com.ar/guarda-cocina-blanco-ngr-7-5x30-1-50-10-1343156/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda para Cocina Rojo 7.5X30 Cm Gruppo Pietrabella,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-cocina-rosso-bco-7-5x30-1-50-10-1343155/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guardacanto Gris 7.5X30 Cm Gruppo Pietrabella,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-cocina-argento-ngr-7-5x30-1-50-1-1343154/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Rojo 26X30 Cm Cerámica Piú,15905.0,4771.5,70.0,https://www.easy.com.ar/guarda-mosaico-laguna-rojo-26x30-0-3-7-1333513/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Porcelanato 75X150 Cm Blanco Marmolado YK15PHT01 Foshan,112488.75,56244.37,50.0,https://www.easy.com.ar/pulido-75x150mod-yk15pht01-c-225m2-1291231/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Negro 5x30 Cm Gruppo Pietrabella,14580.0,4374.0,70.0,https://www.easy.com.ar/guarda-piedra-negro-5x30-1-50-34/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Beige 5X30 Cm Pet's Fun,10493.0,3147.9,70.0,https://www.easy.com.ar/guarda-gibre-bronce-beige-5x30-cm-pet-s-fun-1205370/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Malla Vidrio Naranja y Amarillo 6.5X30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/malla-vidrio-nnja-y-amari-6-5x30-1-50-1-1185281/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Malla Vidrio Violeta 6.5x30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/malla-vidrio-violeta-6-5x30-1-50-15/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Malla Vidrio Verde Manzana 6.5x30 Cm Gruppo Pietrabella,24743.0,7422.9,70.0,https://www.easy.com.ar/malla-vidrio-verde-manzan-6-5x30-1-50-1/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Marrón 3X30 Cm Gruppo Pietrabella,8993.0,2697.9,70.0,https://www.easy.com.ar/guarda-marron-metalizado-3x30-1-5-40/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Beige 3X30 Cm Gruppo Pietrabella,7493.0,2247.9,70.0,https://www.easy.com.ar/guarda-beige-metalizado-3x30-1-5-40/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Cerámica Negro 3X30 Cm Gruppo Pietrabella,8993.0,2697.9,70.0,https://www.easy.com.ar/guarda-negro-metalizado-3x30-1-5-40/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Piso Cemento 30x30 Cm Gris Thin Compact,16197.3,4859.19,70.0,https://www.easy.com.ar/piso-cemento-diamante-30x30-0-54-72/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Decorativa Beige-Marrón 6.5X30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/guarda-colorbeige-marrone-6-5x30-1-5ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Cerámica Rojo 6.5X30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/guarda-color-rosso-argento-6-5x30-1-5ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Guarda Decorativa Gris 6.5X30 Cm Gruppo Pietrabella,29160.0,8748.0,70.0,https://www.easy.com.ar/guarda-carla-6-5x30--1-5ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos,Porcelanato Pulido 80x80 Cm Blanco Tipo Mármol X8PT05T Foshan,82550.4,24765.12,70.0,https://www.easy.com.ar/pulido-80x80-mod-x8pt05t-c-1-92m2/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 25x150 Cm Mod.q251505 c/1.50m2 Foshan,73492.5,22047.75,70.0,https://www.easy.com.ar/porc-25x150-mod-q251505-c-1-50m2-1321004/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 25x150 Cm Simil Madera Foshan,74992.5,22497.75,70.0,https://www.easy.com.ar/porc-25x150-mod-q251503-c-1-50m2-1321003/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 14.5X14.5 Cm Azul Atol Barra Pointer,33690.0,10107.0,70.0,https://www.easy.com.ar/atol-barra-14-5x14-5-br-1-04-60/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 14.5X14.5 Cm Azul Atol Patacho Pointer,33690.0,10107.0,70.0,https://www.easy.com.ar/atol-patacho-14-5x14-5-ext-1-04-60/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 75x150 Cm Gris Mod.Ms-Th751506 Foshan,105286.5,52643.25,50.0,https://www.easy.com.ar/porc-75x150-mod-ms-th751506-c-2-25m2/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 75X150 Cm Blanco Marmolado YK15PHT01 Foshan,112488.75,56244.37,50.0,https://www.easy.com.ar/pulido-75x150mod-yk15pht01-c-225m2-1291231/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato Pulido 80x80 Cm Blanco Tipo Mármol X8PT05T Foshan,82550.4,24765.12,70.0,https://www.easy.com.ar/pulido-80x80-mod-x8pt05t-c-1-92m2/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos/ceramicas-para-piso,Porcelanato 14.5X14.5 Cm Azul Atol Barra Pointer,33690.0,10107.0,70.0,https://www.easy.com.ar/atol-barra-14-5x14-5-br-1-04-60/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos/ceramicas-para-piso,Porcelanato 14.5X14.5 Cm Azul Atol Patacho Pointer,33690.0,10107.0,70.0,https://www.easy.com.ar/atol-patacho-14-5x14-5-ext-1-04-60/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 25x150 Cm Mod.q251505 c/1.50m2 Foshan,73492.5,22047.75,70.0,https://www.easy.com.ar/porc-25x150-mod-q251505-c-1-50m2-1321004/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 25x150 Cm Simil Madera Foshan,74992.5,22497.75,70.0,https://www.easy.com.ar/porc-25x150-mod-q251503-c-1-50m2-1321003/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 75x150 Cm Gris Mod.Ms-Th751506 Foshan,105286.5,52643.25,50.0,https://www.easy.com.ar/porc-75x150-mod-ms-th751506-c-2-25m2/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 75X150 Cm Blanco Marmolado YK15PHT01 Foshan,112488.75,56244.37,50.0,https://www.easy.com.ar/pulido-75x150mod-yk15pht01-c-225m2-1291231/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato Pulido 80x80 Cm Blanco Tipo Mármol X8PT05T Foshan,82550.4,24765.12,70.0,https://www.easy.com.ar/pulido-80x80-mod-x8pt05t-c-1-92m2/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos/baldosa,Porcelanato 14.5X14.5 Cm Azul Atol Patacho Pointer,33690.0,10107.0,70.0,https://www.easy.com.ar/atol-patacho-14-5x14-5-ext-1-04-60/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/ceramicas-y-porcelanatos/baldosa,Porcelanato 75x150 Cm Gris Mod.Ms-Th751506 Foshan,105286.5,52643.25,50.0,https://www.easy.com.ar/porc-75x150-mod-ms-th751506-c-2-25m2/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Listel Plata 2.5X30 Cm (1.5 Mts) San Giovanni,9893.0,2967.9,70.0,https://www.easy.com.ar/guarda-listel-plata-2-5x30-1-5-metros/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Listel Blanco 2.5X30 Cm (1.5 Mts) San Giovanni,10493.0,3147.9,70.0,https://www.easy.com.ar/guarda-listel-blanco-2-5x30-1-5-metros/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Violeta 30X1500 Mm San Giovanni,7495.0,2248.5,70.0,https://www.easy.com.ar/guarda-hoja-3-x-30-viola/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Piedra Marfil 7.5X30 Cm San Giovanni,16995.0,5098.5,70.0,https://www.easy.com.ar/guarda-piedra-7-5-x-30-marfil/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Piedra Negro 7.5X30 Cm San Giovanni,18360.0,5508.0,70.0,https://www.easy.com.ar/guarda-piedra-7-5-x-30-negro/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Amarillo 47X1500 Mm San Giovanni,10795.0,3238.5,70.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-amarillo/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Gris 5X30 Cm Vidrio San Giovanni,12995.0,3898.5,70.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-gris/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Azul 1.5X0.05 Mts San Giovanni,9795.0,2938.5,70.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-azul/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,"Guarda Brige 1,5X2,5 Cm San Giovanni",13995.0,4198.5,70.0,https://www.easy.com.ar/guarda-ranurada-cotto-terra/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Malla I Colori Verde 6.5x150 Cm San Giovanni,20995.0,6298.5,70.0,https://www.easy.com.ar/malla-i-colori-bianco-verde-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Malla I Colori Verde Argento 6.5X150 Cm San Giovanni,15995.0,4798.5,70.0,https://www.easy.com.ar/malla-i-colori-verde-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Malla I Colori Azul 1.5X6.5 Cm San Giovanni,17995.0,5398.5,70.0,https://www.easy.com.ar/malla-i-colori-azurro-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Malla I Colori Blanco y Azul 6.5X150 Cm San Giovanni,20995.0,6298.5,70.0,https://www.easy.com.ar/malla-i-colori-bianco-azurro-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guardacantos Celeste 3.75X30 Cm San Giovanni,9743.0,2922.9,70.0,https://www.easy.com.ar/guarda-venecia-turquesa-3-75x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guardacantos Blanco 3.75X30 Cm Venecia San Giovanni,11010.0,3303.0,70.0,https://www.easy.com.ar/guarda-venecia-blanco-3-75x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guardacantos Rojo 3.75X30 Cm San Giovanni,8243.0,2472.9,70.0,https://www.easy.com.ar/guarda-venecia-rojo-3-75x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guardacantos Beige 7.5X30 Cm Senza Fine San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-senza-fine-beige-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Hexagonal Blanco 7.5X30 Cm San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-hexagono-blanco-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Hexagonal Negro 7.5X30 Cm San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-hexagono-negro-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guardacantos Beige 7.5X30 Cm Natura San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-natura-beige-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guardacantos Blanco 7.5X30 Cm San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-natura-blanco-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guardacantos Negro 7.5X30 Cm Natura San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-natura-negro-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guardacanto Beige 7.5X30 Cm Gruppo Pietrabella,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-cocina-beige-marro-7-5x30-1-50-1-1343158/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Negro Blanco Hora del Té Gruppo Pietrabella,19440.0,5832.0,70.0,https://www.easy.com.ar/guarda-cocina-negro-bco-7-5x30-1-50-10-1343157/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Cocina Blanco y Negro Vidrio Gruppo Pietrabella,19440.0,5832.0,70.0,https://www.easy.com.ar/guarda-cocina-blanco-ngr-7-5x30-1-50-10-1343156/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda para Cocina Rojo 7.5X30 Cm Gruppo Pietrabella,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-cocina-rosso-bco-7-5x30-1-50-10-1343155/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guardacanto Gris 7.5X30 Cm Gruppo Pietrabella,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-cocina-argento-ngr-7-5x30-1-50-1-1343154/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Rojo 26X30 Cm Cerámica Piú,15905.0,4771.5,70.0,https://www.easy.com.ar/guarda-mosaico-laguna-rojo-26x30-0-3-7-1333513/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Negro 5x30 Cm Gruppo Pietrabella,14580.0,4374.0,70.0,https://www.easy.com.ar/guarda-piedra-negro-5x30-1-50-34/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Beige 5X30 Cm Pet's Fun,10493.0,3147.9,70.0,https://www.easy.com.ar/guarda-gibre-bronce-beige-5x30-cm-pet-s-fun-1205370/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Marrón 3X30 Cm Gruppo Pietrabella,8993.0,2697.9,70.0,https://www.easy.com.ar/guarda-marron-metalizado-3x30-1-5-40/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Beige 3X30 Cm Gruppo Pietrabella,7493.0,2247.9,70.0,https://www.easy.com.ar/guarda-beige-metalizado-3x30-1-5-40/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Cerámica Negro 3X30 Cm Gruppo Pietrabella,8993.0,2697.9,70.0,https://www.easy.com.ar/guarda-negro-metalizado-3x30-1-5-40/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Decorativa Beige-Marrón 6.5X30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/guarda-colorbeige-marrone-6-5x30-1-5ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Cerámica Rojo 6.5X30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/guarda-color-rosso-argento-6-5x30-1-5ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados,Guarda Decorativa Gris 6.5X30 Cm Gruppo Pietrabella,29160.0,8748.0,70.0,https://www.easy.com.ar/guarda-carla-6-5x30--1-5ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Violeta 30X1500 Mm San Giovanni,7495.0,2248.5,70.0,https://www.easy.com.ar/guarda-hoja-3-x-30-viola/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Piedra Marfil 7.5X30 Cm San Giovanni,16995.0,5098.5,70.0,https://www.easy.com.ar/guarda-piedra-7-5-x-30-marfil/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Piedra Negro 7.5X30 Cm San Giovanni,18360.0,5508.0,70.0,https://www.easy.com.ar/guarda-piedra-7-5-x-30-negro/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Amarillo 47X1500 Mm San Giovanni,10795.0,3238.5,70.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-amarillo/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Gris 5X30 Cm Vidrio San Giovanni,12995.0,3898.5,70.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-gris/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Azul 1.5X0.05 Mts San Giovanni,9795.0,2938.5,70.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-azul/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,"Guarda Brige 1,5X2,5 Cm San Giovanni",13995.0,4198.5,70.0,https://www.easy.com.ar/guarda-ranurada-cotto-terra/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacantos Celeste 3.75X30 Cm San Giovanni,9743.0,2922.9,70.0,https://www.easy.com.ar/guarda-venecia-turquesa-3-75x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacantos Blanco 3.75X30 Cm Venecia San Giovanni,11010.0,3303.0,70.0,https://www.easy.com.ar/guarda-venecia-blanco-3-75x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacantos Rojo 3.75X30 Cm San Giovanni,8243.0,2472.9,70.0,https://www.easy.com.ar/guarda-venecia-rojo-3-75x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacantos Beige 7.5X30 Cm Senza Fine San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-senza-fine-beige-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Hexagonal Blanco 7.5X30 Cm San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-hexagono-blanco-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Hexagonal Negro 7.5X30 Cm San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-hexagono-negro-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacantos Beige 7.5X30 Cm Natura San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-natura-beige-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacantos Blanco 7.5X30 Cm San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-natura-blanco-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacantos Negro 7.5X30 Cm Natura San Giovanni,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-natura-negro-7-5x30-1-5-ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacanto Beige 7.5X30 Cm Gruppo Pietrabella,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-cocina-beige-marro-7-5x30-1-50-1-1343158/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Negro Blanco Hora del Té Gruppo Pietrabella,19440.0,5832.0,70.0,https://www.easy.com.ar/guarda-cocina-negro-bco-7-5x30-1-50-10-1343157/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Cocina Blanco y Negro Vidrio Gruppo Pietrabella,19440.0,5832.0,70.0,https://www.easy.com.ar/guarda-cocina-blanco-ngr-7-5x30-1-50-10-1343156/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda para Cocina Rojo 7.5X30 Cm Gruppo Pietrabella,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-cocina-rosso-bco-7-5x30-1-50-10-1343155/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacanto Gris 7.5X30 Cm Gruppo Pietrabella,16493.0,4947.9,70.0,https://www.easy.com.ar/guarda-cocina-argento-ngr-7-5x30-1-50-1-1343154/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Negro 5x30 Cm Gruppo Pietrabella,14580.0,4374.0,70.0,https://www.easy.com.ar/guarda-piedra-negro-5x30-1-50-34/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Beige 5X30 Cm Pet's Fun,10493.0,3147.9,70.0,https://www.easy.com.ar/guarda-gibre-bronce-beige-5x30-cm-pet-s-fun-1205370/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Marrón 3X30 Cm Gruppo Pietrabella,8993.0,2697.9,70.0,https://www.easy.com.ar/guarda-marron-metalizado-3x30-1-5-40/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Beige 3X30 Cm Gruppo Pietrabella,7493.0,2247.9,70.0,https://www.easy.com.ar/guarda-beige-metalizado-3x30-1-5-40/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Cerámica Negro 3X30 Cm Gruppo Pietrabella,8993.0,2697.9,70.0,https://www.easy.com.ar/guarda-negro-metalizado-3x30-1-5-40/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/listeles-especiales,Guarda Listel Plata 2.5X30 Cm (1.5 Mts) San Giovanni,9893.0,2967.9,70.0,https://www.easy.com.ar/guarda-listel-plata-2-5x30-1-5-metros/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/listeles-especiales,Guarda Listel Blanco 2.5X30 Cm (1.5 Mts) San Giovanni,10493.0,3147.9,70.0,https://www.easy.com.ar/guarda-listel-blanco-2-5x30-1-5-metros/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/mallas,Malla I Colori Verde 6.5x150 Cm San Giovanni,20995.0,6298.5,70.0,https://www.easy.com.ar/malla-i-colori-bianco-verde-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/mallas,Malla I Colori Verde Argento 6.5X150 Cm San Giovanni,15995.0,4798.5,70.0,https://www.easy.com.ar/malla-i-colori-verde-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/mallas,Malla I Colori Azul 1.5X6.5 Cm San Giovanni,17995.0,5398.5,70.0,https://www.easy.com.ar/malla-i-colori-azurro-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/mallas,Malla I Colori Blanco y Azul 6.5X150 Cm San Giovanni,20995.0,6298.5,70.0,https://www.easy.com.ar/malla-i-colori-bianco-azurro-argento/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/mallas,Guarda Rojo 26X30 Cm Cerámica Piú,15905.0,4771.5,70.0,https://www.easy.com.ar/guarda-mosaico-laguna-rojo-26x30-0-3-7-1333513/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/mallas,Guarda Decorativa Beige-Marrón 6.5X30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/guarda-colorbeige-marrone-6-5x30-1-5ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/mallas,Guarda Cerámica Rojo 6.5X30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/guarda-color-rosso-argento-6-5x30-1-5ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/guardas-y-decorados/mallas,Guarda Decorativa Gris 6.5X30 Cm Gruppo Pietrabella,29160.0,8748.0,70.0,https://www.easy.com.ar/guarda-carla-6-5x30--1-5ml/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/alfombras-para-piso,Césped Sintético Verde 30x30 Cm 35 Mm Baldara,93000.0,46500.0,50.0,https://www.easy.com.ar/pasto-sintetico-30x30-cm-baldara-1448077/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/alfombras-para-piso,Césped Sintético Verde 30x30 Cm 20 Mm Baldara,90000.0,45000.0,50.0,https://www.easy.com.ar/pasto-sintetico-30x30-cm-baldara-1448074/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/alfombras-para-piso,Césped Sintético Verde 40 Mm 30x30 Cm Baldara,95000.0,47500.0,50.0,https://www.easy.com.ar/pasto-sintetico-30x30-cm-baldara-1448073/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/alfombras-para-piso/cesped-sintetico-y-muro-plastico,Césped Sintético Verde 30x30 Cm 35 Mm Baldara,93000.0,46500.0,50.0,https://www.easy.com.ar/pasto-sintetico-30x30-cm-baldara-1448077/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/alfombras-para-piso/cesped-sintetico-y-muro-plastico,Césped Sintético Verde 30x30 Cm 20 Mm Baldara,90000.0,45000.0,50.0,https://www.easy.com.ar/pasto-sintetico-30x30-cm-baldara-1448074/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/alfombras-para-piso/cesped-sintetico-y-muro-plastico,Césped Sintético Verde 40 Mm 30x30 Cm Baldara,95000.0,47500.0,50.0,https://www.easy.com.ar/pasto-sintetico-30x30-cm-baldara-1448073/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/perfiles-y-molduras,Malla Vidrio Naranja y Amarillo 6.5X30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/malla-vidrio-nnja-y-amari-6-5x30-1-50-1-1185281/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/perfiles-y-molduras,Malla Vidrio Violeta 6.5x30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/malla-vidrio-violeta-6-5x30-1-50-15/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/perfiles-y-molduras,Malla Vidrio Verde Manzana 6.5x30 Cm Gruppo Pietrabella,24743.0,7422.9,70.0,https://www.easy.com.ar/malla-vidrio-verde-manzan-6-5x30-1-50-1/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/perfiles-y-molduras/zocalos-y-perfiles,Malla Vidrio Naranja y Amarillo 6.5X30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/malla-vidrio-nnja-y-amari-6-5x30-1-50-1-1185281/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/perfiles-y-molduras/zocalos-y-perfiles,Malla Vidrio Violeta 6.5x30 Cm Gruppo Pietrabella,20993.0,6297.9,70.0,https://www.easy.com.ar/malla-vidrio-violeta-6-5x30-1-50-15/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/perfiles-y-molduras/zocalos-y-perfiles,Malla Vidrio Verde Manzana 6.5x30 Cm Gruppo Pietrabella,24743.0,7422.9,70.0,https://www.easy.com.ar/malla-vidrio-verde-manzan-6-5x30-1-50-1/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/revestimientos-de-exterior,Piso Cementado 40X40 Cm Negro Razzante,6465.0,1939.5,70.0,https://www.easy.com.ar/paq-recto-grande-neg-40x40x0-48m2xp80-1348468/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/revestimientos-de-exterior,Piso Cemento 30x30 Cm Gris Thin Compact,16197.3,4859.19,70.0,https://www.easy.com.ar/piso-cemento-diamante-30x30-0-54-72/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/revestimientos-de-exterior/pisos-para-exterior,Piso Cementado 40X40 Cm Negro Razzante,6465.0,1939.5,70.0,https://www.easy.com.ar/paq-recto-grande-neg-40x40x0-48m2xp80-1348468/p
+2026-08-31T18:36:59,/pisos-y-revestimientos/revestimientos-de-exterior/pisos-para-exterior,Piso Cemento 30x30 Cm Gris Thin Compact,16197.3,4859.19,70.0,https://www.easy.com.ar/piso-cemento-diamante-30x30-0-54-72/p
+2026-08-31T18:36:59,/construccion-y-maderas,Escalera telescópica 6.2 m WRK Work,699900.0,349950.0,50.0,https://www.easy.com.ar/escalera-telescopica-aluminio6-2mt-22esc/p
+2026-08-31T18:36:59,/construccion-y-maderas/escaleras-y-accesorios,Escalera telescópica 6.2 m WRK Work,699900.0,349950.0,50.0,https://www.easy.com.ar/escalera-telescopica-aluminio6-2mt-22esc/p
+2026-08-31T18:36:59,/construccion-y-maderas/escaleras-y-accesorios/escaleras-aluminio,Escalera telescópica 6.2 m WRK Work,699900.0,349950.0,50.0,https://www.easy.com.ar/escalera-telescopica-aluminio6-2mt-22esc/p
+2026-08-31T18:36:59,/ferreteria,Tacos Duopower 8 mm con Tornillos 5x45 mm 50 Un Fischer,25805.0,12902.5,50.0,https://www.easy.com.ar/pote-50-duopower-8-tmf5x45/p
+2026-08-31T18:36:59,/ferreteria,Caja Fuerte 20X31X20 Cm Digital Negra Arnik,138000.0,69000.0,50.0,https://www.easy.com.ar/caja-fuerte-blinder-negra-20x31x20-cm-arnik-1277576/p
+2026-08-31T18:36:59,/ferreteria,Caja Fuerte 18x18x28 Cm Digital HYQHOUARN018 Maxhaus,114000.0,57000.0,50.0,https://www.easy.com.ar/caja-fuerte-18x28x18cm-arnik/p
+2026-08-31T18:36:59,/ferreteria/candados-y-cajas,Caja Fuerte 20X31X20 Cm Digital Negra Arnik,138000.0,69000.0,50.0,https://www.easy.com.ar/caja-fuerte-blinder-negra-20x31x20-cm-arnik-1277576/p
+2026-08-31T18:36:59,/ferreteria/candados-y-cajas,Caja Fuerte 18x18x28 Cm Digital HYQHOUARN018 Maxhaus,114000.0,57000.0,50.0,https://www.easy.com.ar/caja-fuerte-18x28x18cm-arnik/p
+2026-08-31T18:36:59,/ferreteria/candados-y-cajas/cajas-de-seguridad,Caja Fuerte 20X31X20 Cm Digital Negra Arnik,138000.0,69000.0,50.0,https://www.easy.com.ar/caja-fuerte-blinder-negra-20x31x20-cm-arnik-1277576/p
+2026-08-31T18:36:59,/ferreteria/candados-y-cajas/cajas-de-seguridad,Caja Fuerte 18x18x28 Cm Digital HYQHOUARN018 Maxhaus,114000.0,57000.0,50.0,https://www.easy.com.ar/caja-fuerte-18x28x18cm-arnik/p
+2026-08-31T18:36:59,/ferreteria/fijaciones,Tacos Duopower 8 mm con Tornillos 5x45 mm 50 Un Fischer,25805.0,12902.5,50.0,https://www.easy.com.ar/pote-50-duopower-8-tmf5x45/p
+2026-08-31T18:36:59,/ferreteria/fijaciones/tarugos,Tacos Duopower 8 mm con Tornillos 5x45 mm 50 Un Fischer,25805.0,12902.5,50.0,https://www.easy.com.ar/pote-50-duopower-8-tmf5x45/p
