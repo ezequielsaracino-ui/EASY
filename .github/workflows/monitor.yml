@@ -1,0 +1,40 @@
+name: Monitor descuentos Easy
+
+on:
+  schedule:
+    # Corre una vez por hora, en el minuto 0 (hora UTC).
+    - cron: "0 * * * *"
+  workflow_dispatch: {}   # te permite tocar "Run workflow" a mano para probar
+
+permissions:
+  contents: write   # necesario para poder guardar el CSV actualizado en el repo
+
+jobs:
+  buscar-ofertas:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr el monitor
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+        run: python monitor_easy_descuentos.py
+
+      - name: Guardar el historial de ofertas en el repo
+        run: |
+          git config user.name "easy-monitor-bot"
+          git config user.email "actions@github.com"
+          git add descuentos_easy.csv || true
+          git diff --cached --quiet || git commit -m "Actualizo historial de ofertas"
+          git push || true
