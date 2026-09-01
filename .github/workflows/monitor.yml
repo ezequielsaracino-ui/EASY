@@ -3,7 +3,7 @@ name: Monitor descuentos Easy
 on:
   schedule:
     # Corre una vez por hora, en el minuto 0 (hora UTC).
-    - cron: "0 * * * *"
+   - cron: "17 * * * *"
   workflow_dispatch: {}   # te permite tocar "Run workflow" a mano para probar
 
 permissions:
