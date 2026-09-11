@@ -1671,3 +1671,12 @@ timestamp,categoria,producto,precio_lista,precio_final,descuento_pct,link
 2026-09-09T17:09:15,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato Pulido 60X60 Cm Blanco Carrara Foshan,50392.8,20157.12,60.0,https://www.easy.com.ar/piso-porc-pul-60x60-carrara-wh-1-44-44/p
 2026-09-09T17:09:15,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato Pulido 60X60 Cm Blanco Carrara Foshan,50392.8,20157.12,60.0,https://www.easy.com.ar/piso-porc-pul-60x60-carrara-wh-1-44-44/p
 2026-09-09T17:09:15,/pisos-y-revestimientos/ceramicas-y-porcelanatos/baldosa,Porcelanato Pulido 60X60 Cm Blanco Carrara Foshan,50392.8,20157.12,60.0,https://www.easy.com.ar/piso-porc-pul-60x60-carrara-wh-1-44-44/p
+2026-09-11T20:12:05,/electrodomesticos,Aspiradora De Arrastre 2000 W 4 Lts Negra VCP2000L4 Nex,168000.0,67200.0,60.0,https://www.easy.com.ar/aspiradora-ciclonica-vcp2000l4-2000w-4-l-nex-1282231/p
+2026-09-11T20:12:05,/electrodomesticos,"Ventilador De Techo Mdf 5B 52"" Nex",231150.0,92460.0,60.0,https://www.easy.com.ar/ventilador-techo-52-mdf-5b-1283211/p
+2026-09-11T20:12:05,/electrodomesticos,"Ventilador Techo 52"" Mdf 4B Nex",305580.0,122232.0,60.0,https://www.easy.com.ar/ventilador-techo-52-mdf-4b-1283210/p
+2026-09-11T20:12:05,/electrodomesticos/climatizacion,"Ventilador De Techo Mdf 5B 52"" Nex",231150.0,92460.0,60.0,https://www.easy.com.ar/ventilador-techo-52-mdf-5b-1283211/p
+2026-09-11T20:12:05,/electrodomesticos/climatizacion,"Ventilador Techo 52"" Mdf 4B Nex",305580.0,122232.0,60.0,https://www.easy.com.ar/ventilador-techo-52-mdf-4b-1283210/p
+2026-09-11T20:12:05,/electrodomesticos/climatizacion/ventiladores,"Ventilador De Techo Mdf 5B 52"" Nex",231150.0,92460.0,60.0,https://www.easy.com.ar/ventilador-techo-52-mdf-5b-1283211/p
+2026-09-11T20:12:05,/electrodomesticos/climatizacion/ventiladores,"Ventilador Techo 52"" Mdf 4B Nex",305580.0,122232.0,60.0,https://www.easy.com.ar/ventilador-techo-52-mdf-4b-1283210/p
+2026-09-11T20:12:05,/electrodomesticos/electrodomesticos-hogar,Aspiradora De Arrastre 2000 W 4 Lts Negra VCP2000L4 Nex,168000.0,67200.0,60.0,https://www.easy.com.ar/aspiradora-ciclonica-vcp2000l4-2000w-4-l-nex-1282231/p
+2026-09-11T20:12:05,/electrodomesticos/electrodomesticos-hogar/aspiradoras,Aspiradora De Arrastre 2000 W 4 Lts Negra VCP2000L4 Nex,168000.0,67200.0,60.0,https://www.easy.com.ar/aspiradora-ciclonica-vcp2000l4-2000w-4-l-nex-1282231/p
