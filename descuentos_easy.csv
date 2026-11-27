@@ -6327,3 +6327,217 @@ timestamp,categoria,producto,precio_lista,precio_final,descuento_pct,link
 2026-11-24T11:20:59,/herramientas,Sierra Caladora 450 W 4328 Makita,301500.0,144900.0,51.9,https://www.easy.com.ar/sierra-caladora-450-w-makita/p
 2026-11-24T11:20:59,/herramientas/portatiles,Sierra Caladora 450 W 4328 Makita,301500.0,144900.0,51.9,https://www.easy.com.ar/sierra-caladora-450-w-makita/p
 2026-11-24T11:20:59,/herramientas/portatiles/sierras,Sierra Caladora 450 W 4328 Makita,301500.0,144900.0,51.9,https://www.easy.com.ar/sierra-caladora-450-w-makita/p
+2026-11-27T03:20:07,/banos-y-cocinas,Inodoro One Piece Blanco Moon Vessanti,532000.0,266000.0,50.0,https://www.easy.com.ar/sanitario-one-piece-moon/p
+2026-11-27T03:20:07,/banos-y-cocinas,Cabina Ducha 200x80x80 Cm Mosaico Vessanti,791000.0,395500.0,50.0,https://www.easy.com.ar/shower-mosaico-blanco-200x80x80-cm-vessanti-1056205/p
+2026-11-27T03:20:07,/banos-y-cocinas,Mampara Frontal 135x150 cm Vidrio/Metal Vessanti,474000.0,237000.0,50.0,https://www.easy.com.ar/mampara-frontal-135x150x150-cm-vessanti-1283025/p
+2026-11-27T03:20:07,/banos-y-cocinas,Grifería Cocina Monocomando Negro Rek Vessanti,198700.0,99350.0,50.0,https://www.easy.com.ar/griferia-monomanodo-cocina-rek/p
+2026-11-27T03:20:07,/banos-y-cocinas,Espejo Decorativo LED 80x80 Cm Gris Irregular Curve Vessanti,260000.0,130000.0,50.0,https://www.easy.com.ar/espejo-irreg-curv-led-80x80/p
+2026-11-27T03:20:07,/banos-y-cocinas,Columna De Ducha Luz Led Temperatura Vessanti,599000.0,299500.0,50.0,https://www.easy.com.ar/columna-de-ducha-luz-led-temperatura/p
+2026-11-27T03:20:07,/banos-y-cocinas,Set de Accesorios de Baño Cromado 5 Piezas Sevilla Vessanti,137900.0,68950.0,50.0,https://www.easy.com.ar/set-de-accesorios-de-pared-sevilla-5-piezas-vessanti-1253357/p
+2026-11-27T03:20:07,/banos-y-cocinas,Vanitory 74x40x46 Cm Madera Natural y Negro Milán Vessanti,718000.0,359000.0,50.0,https://www.easy.com.ar/mueble-vanitorio-milan-74-cm-vessanti-9007049/p
+2026-11-27T03:20:07,/banos-y-cocinas,Columna de Ducha 2 Jets 140x22x7.8 Cm Gris Torun Vessanti,677300.0,338650.0,50.0,https://www.easy.com.ar/columna-de-ducha-torun/p
+2026-11-27T03:20:07,/banos-y-cocinas,Grifería Monocomando Cromada para Ducha Round Vessanti,576500.0,288250.0,50.0,https://www.easy.com.ar/griferia-monomando-bañera-round/p
+2026-11-27T03:20:07,/banos-y-cocinas,Bacha de Apoyar Azul 42x42 Cm Vessanti,143000.0,71500.0,50.0,https://www.easy.com.ar/lavamanos-shine-blue-42-cm-vessanti-1253383/p
+2026-11-27T03:20:07,/banos-y-cocinas,Vanitory 2 Cajones 62x70x46 Cm Tablero de Partículas Marrón Sobca Vessanti,558700.0,279350.0,50.0,https://www.easy.com.ar/mueble-vanitorio-dobca-70x46/p
+2026-11-27T03:20:07,/banos-y-cocinas,Espejo LED 70x60 Cm Marco Aluminio Negro Irregular Curve Vessanti,270000.0,135000.0,50.0,https://www.easy.com.ar/espejo-irreg-curv-led-60x70/p
+2026-11-27T03:20:07,/banos-y-cocinas,Bacha de Sobreponer 42 Cm Negro Vessanti,122000.0,61000.0,50.0,https://www.easy.com.ar/lavamanos-sobreponer-negro-42-cm-vessanti-1041270/p
+2026-11-27T03:20:07,/banos-y-cocinas/griferias,Grifería Cocina Monocomando Negro Rek Vessanti,198700.0,99350.0,50.0,https://www.easy.com.ar/griferia-monomanodo-cocina-rek/p
+2026-11-27T03:20:07,/banos-y-cocinas/griferias,Grifería Monocomando Cromada para Ducha Round Vessanti,576500.0,288250.0,50.0,https://www.easy.com.ar/griferia-monomando-bañera-round/p
+2026-11-27T03:20:07,/banos-y-cocinas/griferias/griferias-banera-y-ducha,Grifería Monocomando Cromada para Ducha Round Vessanti,576500.0,288250.0,50.0,https://www.easy.com.ar/griferia-monomando-bañera-round/p
+2026-11-27T03:20:07,/banos-y-cocinas/griferias/griferias-cocina,Grifería Cocina Monocomando Negro Rek Vessanti,198700.0,99350.0,50.0,https://www.easy.com.ar/griferia-monomanodo-cocina-rek/p
+2026-11-27T03:20:07,/banos-y-cocinas/sanitarios,Inodoro One Piece Blanco Moon Vessanti,532000.0,266000.0,50.0,https://www.easy.com.ar/sanitario-one-piece-moon/p
+2026-11-27T03:20:07,/banos-y-cocinas/sanitarios/inodoros,Inodoro One Piece Blanco Moon Vessanti,532000.0,266000.0,50.0,https://www.easy.com.ar/sanitario-one-piece-moon/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano,Espejo Decorativo LED 80x80 Cm Gris Irregular Curve Vessanti,260000.0,130000.0,50.0,https://www.easy.com.ar/espejo-irreg-curv-led-80x80/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano,Vanitory 74x40x46 Cm Madera Natural y Negro Milán Vessanti,718000.0,359000.0,50.0,https://www.easy.com.ar/mueble-vanitorio-milan-74-cm-vessanti-9007049/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano,Bacha de Apoyar Azul 42x42 Cm Vessanti,143000.0,71500.0,50.0,https://www.easy.com.ar/lavamanos-shine-blue-42-cm-vessanti-1253383/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano,Vanitory 2 Cajones 62x70x46 Cm Tablero de Partículas Marrón Sobca Vessanti,558700.0,279350.0,50.0,https://www.easy.com.ar/mueble-vanitorio-dobca-70x46/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano,Espejo LED 70x60 Cm Marco Aluminio Negro Irregular Curve Vessanti,270000.0,135000.0,50.0,https://www.easy.com.ar/espejo-irreg-curv-led-60x70/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano,Bacha de Sobreponer 42 Cm Negro Vessanti,122000.0,61000.0,50.0,https://www.easy.com.ar/lavamanos-sobreponer-negro-42-cm-vessanti-1041270/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano/vanitorys,Vanitory 74x40x46 Cm Madera Natural y Negro Milán Vessanti,718000.0,359000.0,50.0,https://www.easy.com.ar/mueble-vanitorio-milan-74-cm-vessanti-9007049/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano/vanitorys,Bacha de Apoyar Azul 42x42 Cm Vessanti,143000.0,71500.0,50.0,https://www.easy.com.ar/lavamanos-shine-blue-42-cm-vessanti-1253383/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano/vanitorys,Vanitory 2 Cajones 62x70x46 Cm Tablero de Partículas Marrón Sobca Vessanti,558700.0,279350.0,50.0,https://www.easy.com.ar/mueble-vanitorio-dobca-70x46/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano/vanitorys,Bacha de Sobreponer 42 Cm Negro Vessanti,122000.0,61000.0,50.0,https://www.easy.com.ar/lavamanos-sobreponer-negro-42-cm-vessanti-1041270/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano/espejos-y-botiquines,Espejo Decorativo LED 80x80 Cm Gris Irregular Curve Vessanti,260000.0,130000.0,50.0,https://www.easy.com.ar/espejo-irreg-curv-led-80x80/p
+2026-11-27T03:20:07,/banos-y-cocinas/muebles-para-bano/espejos-y-botiquines,Espejo LED 70x60 Cm Marco Aluminio Negro Irregular Curve Vessanti,270000.0,135000.0,50.0,https://www.easy.com.ar/espejo-irreg-curv-led-60x70/p
+2026-11-27T03:20:07,/banos-y-cocinas/accesorios,Set de Accesorios de Baño Cromado 5 Piezas Sevilla Vessanti,137900.0,68950.0,50.0,https://www.easy.com.ar/set-de-accesorios-de-pared-sevilla-5-piezas-vessanti-1253357/p
+2026-11-27T03:20:07,/banos-y-cocinas/accesorios/accesorios-de-banos,Set de Accesorios de Baño Cromado 5 Piezas Sevilla Vessanti,137900.0,68950.0,50.0,https://www.easy.com.ar/set-de-accesorios-de-pared-sevilla-5-piezas-vessanti-1253357/p
+2026-11-27T03:20:07,/banos-y-cocinas/baneras-y-duchas,Cabina Ducha 200x80x80 Cm Mosaico Vessanti,791000.0,395500.0,50.0,https://www.easy.com.ar/shower-mosaico-blanco-200x80x80-cm-vessanti-1056205/p
+2026-11-27T03:20:07,/banos-y-cocinas/baneras-y-duchas,Mampara Frontal 135x150 cm Vidrio/Metal Vessanti,474000.0,237000.0,50.0,https://www.easy.com.ar/mampara-frontal-135x150x150-cm-vessanti-1283025/p
+2026-11-27T03:20:07,/banos-y-cocinas/baneras-y-duchas,Columna De Ducha Luz Led Temperatura Vessanti,599000.0,299500.0,50.0,https://www.easy.com.ar/columna-de-ducha-luz-led-temperatura/p
+2026-11-27T03:20:07,/banos-y-cocinas/baneras-y-duchas,Columna de Ducha 2 Jets 140x22x7.8 Cm Gris Torun Vessanti,677300.0,338650.0,50.0,https://www.easy.com.ar/columna-de-ducha-torun/p
+2026-11-27T03:20:07,/banos-y-cocinas/baneras-y-duchas/columnas-de-ducha,Columna De Ducha Luz Led Temperatura Vessanti,599000.0,299500.0,50.0,https://www.easy.com.ar/columna-de-ducha-luz-led-temperatura/p
+2026-11-27T03:20:07,/banos-y-cocinas/baneras-y-duchas/columnas-de-ducha,Columna de Ducha 2 Jets 140x22x7.8 Cm Gris Torun Vessanti,677300.0,338650.0,50.0,https://www.easy.com.ar/columna-de-ducha-torun/p
+2026-11-27T03:20:07,/banos-y-cocinas/baneras-y-duchas/cabinas-y-mamparas,Cabina Ducha 200x80x80 Cm Mosaico Vessanti,791000.0,395500.0,50.0,https://www.easy.com.ar/shower-mosaico-blanco-200x80x80-cm-vessanti-1056205/p
+2026-11-27T03:20:07,/banos-y-cocinas/baneras-y-duchas/cabinas-y-mamparas,Mampara Frontal 135x150 cm Vidrio/Metal Vessanti,474000.0,237000.0,50.0,https://www.easy.com.ar/mampara-frontal-135x150x150-cm-vessanti-1283025/p
+2026-11-27T03:20:07,/electrodomesticos,Ventilador de Techo 52 Cm 15 W 3 Velocidades Café KL-FAMP26190brn Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-cafe/p
+2026-11-27T03:20:07,/electrodomesticos,Ventilador de Techo 52 Cm 15 W 3 Velocidades Blanco KL-FAMP26190wht Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-blanco/p
+2026-11-27T03:20:07,/electrodomesticos,Ventilador de Techo 52 Cm 15 W 3 Velocidades Negro KL-FAMP26190blk Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-negro/p
+2026-11-27T03:20:07,/electrodomesticos,Ventilador de Techo 52 Cm 15 W 3 Velocidades Surtido KL-FAMP26190clr Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-colores/p
+2026-11-27T03:20:07,/electrodomesticos,Aspiradora Vertical 2 en 1 18 Kpa 0.6 Lts Gris KL-ASPVPROM Klauben,99995.0,49997.5,50.0,https://www.easy.com.ar/aspiradora-alambrica-kaluben-2en1/p
+2026-11-27T03:20:07,/electrodomesticos,Aspiradora Arra 2000W 4L D Silent VCS200020 NEX,289000.0,144500.0,50.0,https://www.easy.com.ar/aspiradora-vcs200020-4l-2000w-nex-1282230/p
+2026-11-27T03:20:07,/electrodomesticos,klauben - encime indu 4q 60cm hoin-0460,599995.0,299997.5,50.0,https://www.easy.com.ar/klauben---encime-indu-4q-60cm-hoin-0460/p
+2026-11-27T03:20:07,/electrodomesticos,klauben - encime indu 2q 30cm hoin-0230,399995.0,199997.5,50.0,https://www.easy.com.ar/klauben---encime-indu-2q-30cm-hoin-0230/p
+2026-11-27T03:20:07,/electrodomesticos,"Ventilador Turbo Industrial 32"" 280 W 3 Velocidades Negro VTI32 Liliana",304500.0,60900.0,80.0,https://www.easy.com.ar/ventilador-turbo-industrial-liliana-32p-1295227/p
+2026-11-27T03:20:07,/electrodomesticos/coccion,klauben - encime indu 4q 60cm hoin-0460,599995.0,299997.5,50.0,https://www.easy.com.ar/klauben---encime-indu-4q-60cm-hoin-0460/p
+2026-11-27T03:20:07,/electrodomesticos/coccion,klauben - encime indu 2q 30cm hoin-0230,399995.0,199997.5,50.0,https://www.easy.com.ar/klauben---encime-indu-2q-30cm-hoin-0230/p
+2026-11-27T03:20:07,/electrodomesticos/coccion/anafes,klauben - encime indu 4q 60cm hoin-0460,599995.0,299997.5,50.0,https://www.easy.com.ar/klauben---encime-indu-4q-60cm-hoin-0460/p
+2026-11-27T03:20:07,/electrodomesticos/coccion/anafes,klauben - encime indu 2q 30cm hoin-0230,399995.0,199997.5,50.0,https://www.easy.com.ar/klauben---encime-indu-2q-30cm-hoin-0230/p
+2026-11-27T03:20:07,/electrodomesticos/climatizacion,Ventilador de Techo 52 Cm 15 W 3 Velocidades Café KL-FAMP26190brn Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-cafe/p
+2026-11-27T03:20:07,/electrodomesticos/climatizacion,Ventilador de Techo 52 Cm 15 W 3 Velocidades Blanco KL-FAMP26190wht Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-blanco/p
+2026-11-27T03:20:07,/electrodomesticos/climatizacion,Ventilador de Techo 52 Cm 15 W 3 Velocidades Negro KL-FAMP26190blk Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-negro/p
+2026-11-27T03:20:07,/electrodomesticos/climatizacion,Ventilador de Techo 52 Cm 15 W 3 Velocidades Surtido KL-FAMP26190clr Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-colores/p
+2026-11-27T03:20:07,/electrodomesticos/climatizacion,"Ventilador Turbo Industrial 32"" 280 W 3 Velocidades Negro VTI32 Liliana",304500.0,60900.0,80.0,https://www.easy.com.ar/ventilador-turbo-industrial-liliana-32p-1295227/p
+2026-11-27T03:20:07,/electrodomesticos/climatizacion/ventiladores,Ventilador de Techo 52 Cm 15 W 3 Velocidades Café KL-FAMP26190brn Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-cafe/p
+2026-11-27T03:20:07,/electrodomesticos/climatizacion/ventiladores,Ventilador de Techo 52 Cm 15 W 3 Velocidades Blanco KL-FAMP26190wht Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-blanco/p
+2026-11-27T03:20:07,/electrodomesticos/climatizacion/ventiladores,Ventilador de Techo 52 Cm 15 W 3 Velocidades Negro KL-FAMP26190blk Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-negro/p
+2026-11-27T03:20:07,/electrodomesticos/climatizacion/ventiladores,Ventilador de Techo 52 Cm 15 W 3 Velocidades Surtido KL-FAMP26190clr Klauben,49995.0,24997.5,50.0,https://www.easy.com.ar/klauben---prm-venti-y-lampara-colores/p
+2026-11-27T03:20:07,/electrodomesticos/climatizacion/ventiladores,"Ventilador Turbo Industrial 32"" 280 W 3 Velocidades Negro VTI32 Liliana",304500.0,60900.0,80.0,https://www.easy.com.ar/ventilador-turbo-industrial-liliana-32p-1295227/p
+2026-11-27T03:20:07,/electrodomesticos/electrodomesticos-hogar,Aspiradora Vertical 2 en 1 18 Kpa 0.6 Lts Gris KL-ASPVPROM Klauben,99995.0,49997.5,50.0,https://www.easy.com.ar/aspiradora-alambrica-kaluben-2en1/p
+2026-11-27T03:20:07,/electrodomesticos/electrodomesticos-hogar,Aspiradora Arra 2000W 4L D Silent VCS200020 NEX,289000.0,144500.0,50.0,https://www.easy.com.ar/aspiradora-vcs200020-4l-2000w-nex-1282230/p
+2026-11-27T03:20:07,/electrodomesticos/electrodomesticos-hogar/aspiradoras,Aspiradora Vertical 2 en 1 18 Kpa 0.6 Lts Gris KL-ASPVPROM Klauben,99995.0,49997.5,50.0,https://www.easy.com.ar/aspiradora-alambrica-kaluben-2en1/p
+2026-11-27T03:20:07,/electrodomesticos/electrodomesticos-hogar/aspiradoras,Aspiradora Arra 2000W 4L D Silent VCS200020 NEX,289000.0,144500.0,50.0,https://www.easy.com.ar/aspiradora-vcs200020-4l-2000w-nex-1282230/p
+2026-11-27T03:20:07,/iluminacion,lamp mesa led kerti usb negra ar,29995.0,5999.0,80.0,https://www.easy.com.ar/lamp-mesa-led-kerti-usb-negra-ar/p
+2026-11-27T03:20:07,/iluminacion,lamp mesa led kerti usb dorada ar,29995.0,5999.0,80.0,https://www.easy.com.ar/lamp-mesa-led-kerti-usb-dorada-ar/p
+2026-11-27T03:20:07,/iluminacion/iluminacion-interior,lamp mesa led kerti usb negra ar,29995.0,5999.0,80.0,https://www.easy.com.ar/lamp-mesa-led-kerti-usb-negra-ar/p
+2026-11-27T03:20:07,/iluminacion/iluminacion-interior,lamp mesa led kerti usb dorada ar,29995.0,5999.0,80.0,https://www.easy.com.ar/lamp-mesa-led-kerti-usb-dorada-ar/p
+2026-11-27T03:20:07,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,lamp mesa led kerti usb negra ar,29995.0,5999.0,80.0,https://www.easy.com.ar/lamp-mesa-led-kerti-usb-negra-ar/p
+2026-11-27T03:20:07,/iluminacion/iluminacion-interior/lamparas-de-pie-y-mesa,lamp mesa led kerti usb dorada ar,29995.0,5999.0,80.0,https://www.easy.com.ar/lamp-mesa-led-kerti-usb-dorada-ar/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 120x60 Cm Perla Brillante Baldara,70552.8,28221.12,60.0,https://www.easy.com.ar/porc-pulido-60x120x9-5-mm-1-44-baldara-1448067/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 60x120 Cm Beige Mate Baldara,60472.8,24189.12,60.0,https://www.easy.com.ar/porc-mat-60x120x9-8-mm-1-44-baldara-1448060/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porc Pulido 60x60x9.00 mm-1.44 Baldara,54712.8,21885.12,60.0,https://www.easy.com.ar/porc-pulido-60x60x9-00-mm-1-44-baldara-1448072/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 60X120 Cm Gris Concreto Cinza Portobello,71492.85,28597.14,60.0,https://www.easy.com.ar/porcell--60x120-concreto-cinza-1-43m2-1287271/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Cerámica para Piso 80X80 Cm Gris Beige Concreto Mate Pointer,40310.4,16124.16,60.0,https://www.easy.com.ar/piso-cer-zeppelin-grey-80x80-1-92-36-1372170/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 75X150 Cm Gris Foshan,107988.75,43195.5,60.0,https://www.easy.com.ar/porc-75x150-mod-ms-ar751501-2-25-36/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 20x120 Cm Gris Larix Fume Yurtbay Seramik,57592.8,23037.12,60.0,https://www.easy.com.ar/porc-20x120-larix-fume-c-1-44m2-1314526/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato Pulido Sp12Ph09T 75X150 2.25 Mts Foshan,112488.75,44995.5,60.0,https://www.easy.com.ar/pulido-75x150mod-sp12ph09t-c-2-25m2-1291234/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 15x90 Cm Tipo Madera Amarillo 159041Q-1 Foshan,37794.6,15117.84,60.0,https://www.easy.com.ar/porc-15x90-mod-159041q-1/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Revestimiento 30X60 Cm Blanco Mate Foshan,35992.8,14397.12,60.0,https://www.easy.com.ar/rev-30x60-bco-mate-mod-1xs9000-c-1-44m2/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 60x120 Cm Almond Mate Baldara,66232.8,26493.12,60.0,https://www.easy.com.ar/porc-mat-60x120x9-8-mm-1-44-baldara-1448062/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato Pulido 75X150 Cm Blanco Mármol Carrara Foshan,112488.75,44995.5,60.0,https://www.easy.com.ar/piso-porc-pul75x150-carrara-wh-2-25-36/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato Gris 75x150 Cm Cemento Pulido Foshan,107988.75,43195.5,60.0,https://www.easy.com.ar/porc-75x150-mod-ms-bz751506-2-25-24/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Revestimiento Cerámico 30x90 Cm Blanco Mate 3Xs9000 Baldara,56691.9,22676.76,60.0,https://www.easy.com.ar/rev-30x90-bco-mate-mod-3xs9000-c-1-62m2-1239702/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Guardacantos Celeste 3.75X30 Cm San Giovanni,9743.0,3897.2,60.0,https://www.easy.com.ar/guarda-venecia-turquesa-3-75x30-1-5-ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Guarda Negro 5x30 Cm Gruppo Pietrabella,14580.0,5832.0,60.0,https://www.easy.com.ar/guarda-piedra-negro-5x30-1-50-34/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 80x80 Cm Marrón GLP8116 Foshan,82550.4,33020.16,60.0,https://www.easy.com.ar/pulido-80x80-mod-glp8116-1-92m2/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Malla I Colori Verde Argento 6.5X150 Cm San Giovanni,15995.0,6398.0,60.0,https://www.easy.com.ar/malla-i-colori-verde-argento/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 80x80 Cm Gris Glp8113 Foshan,86390.4,34556.16,60.0,https://www.easy.com.ar/pulido-80x80-mod-glp8113-1-92m2/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 90x90 Cm Gris Nord Cement Portobello,64391.95,25756.78,60.0,https://www.easy.com.ar/porc-90x90-nord-cement-nat-1-61m2-1183630/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Césped Sintético Verde 25 Mm 1x4 Mts Rehau,149995.0,59998.0,60.0,https://www.easy.com.ar/cesped-sintetico-25-mm-1x4m/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Revestimiento 7.5X15 Cm Negro Brillante Pinto Arredamento,47409.55,18963.82,60.0,https://www.easy.com.ar/revest-7-5x15-liso-ng-brillante/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,"Revestimiento Cerámico 29,5X59,5 Cm Blanco Red Web Pointer",31908.6,12763.44,60.0,https://www.easy.com.ar/piso-cer-r-web-bl-30x60-mate-br-2-37-28/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Guarda Gris 5X30 Cm Vidrio San Giovanni,12995.0,5198.0,60.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-gris/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Guarda Azul 1.5X0.05 Mts San Giovanni,9795.0,3918.0,60.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-azul/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Malla I Colori Verde 6.5x150 Cm San Giovanni,20995.0,8398.0,60.0,https://www.easy.com.ar/malla-i-colori-bianco-verde-argento/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Malla I Colori Azul 1.5X6.5 Cm San Giovanni,17995.0,7198.0,60.0,https://www.easy.com.ar/malla-i-colori-azurro-argento/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Guardacantos Blanco 3.75X30 Cm Venecia San Giovanni,11010.0,4404.0,60.0,https://www.easy.com.ar/guarda-venecia-blanco-3-75x30-1-5-ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Guardacantos Rojo 3.75X30 Cm San Giovanni,8243.0,3297.2,60.0,https://www.easy.com.ar/guarda-venecia-rojo-3-75x30-1-5-ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 75X150 Cm Gris MS-BZ751503 Foshan,107988.75,43195.5,60.0,https://www.easy.com.ar/porc-75x150-mod-ms-bz751503-2-25-24/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato Larix Brown 20X120 1.44 Mts Yurtbay Seramik,57592.8,23037.12,60.0,https://www.easy.com.ar/porc-20x120-larix-brown-c-1-44m2-1314528/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Porcelanato 20X120 Cm Marrón Boreal Mix Portobello,54256.86,21702.74,60.0,https://www.easy.com.ar/porcell-20x120-boreal-mix-c-1-19m2-1278949/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Revestimiento 30X90 Cm Blanco Brillante 3XW9000 Baldara,68030.4,27212.16,60.0,https://www.easy.com.ar/rev-30x90-bco-bte--mod-3xw9000-c-1-62m2-1239703/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Guarda Beige 5X30 Cm Pet's Fun,10493.0,4197.2,60.0,https://www.easy.com.ar/guarda-gibre-bronce-beige-5x30-cm-pet-s-fun-1205370/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Malla Vidrio Naranja y Amarillo 6.5X30 Cm Gruppo Pietrabella,20993.0,8397.2,60.0,https://www.easy.com.ar/malla-vidrio-nnja-y-amari-6-5x30-1-50-1-1185281/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Malla Vidrio Violeta 6.5x30 Cm Gruppo Pietrabella,20993.0,8397.2,60.0,https://www.easy.com.ar/malla-vidrio-violeta-6-5x30-1-50-15/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Guarda Marrón 3X30 Cm Gruppo Pietrabella,8993.0,3597.2,60.0,https://www.easy.com.ar/guarda-marron-metalizado-3x30-1-5-40/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Guarda Cerámica Negro 3X30 Cm Gruppo Pietrabella,8993.0,3597.2,60.0,https://www.easy.com.ar/guarda-negro-metalizado-3x30-1-5-40/p
+2026-11-27T03:20:07,/pisos-y-revestimientos,Guarda Cerámica Rojo 6.5X30 Cm Gruppo Pietrabella,20993.0,8397.2,60.0,https://www.easy.com.ar/guarda-color-rosso-argento-6-5x30-1-5ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 120x60 Cm Perla Brillante Baldara,70552.8,28221.12,60.0,https://www.easy.com.ar/porc-pulido-60x120x9-5-mm-1-44-baldara-1448067/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 60x120 Cm Beige Mate Baldara,60472.8,24189.12,60.0,https://www.easy.com.ar/porc-mat-60x120x9-8-mm-1-44-baldara-1448060/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porc Pulido 60x60x9.00 mm-1.44 Baldara,54712.8,21885.12,60.0,https://www.easy.com.ar/porc-pulido-60x60x9-00-mm-1-44-baldara-1448072/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 60X120 Cm Gris Concreto Cinza Portobello,71492.85,28597.14,60.0,https://www.easy.com.ar/porcell--60x120-concreto-cinza-1-43m2-1287271/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Cerámica para Piso 80X80 Cm Gris Beige Concreto Mate Pointer,40310.4,16124.16,60.0,https://www.easy.com.ar/piso-cer-zeppelin-grey-80x80-1-92-36-1372170/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 75X150 Cm Gris Foshan,107988.75,43195.5,60.0,https://www.easy.com.ar/porc-75x150-mod-ms-ar751501-2-25-36/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 20x120 Cm Gris Larix Fume Yurtbay Seramik,57592.8,23037.12,60.0,https://www.easy.com.ar/porc-20x120-larix-fume-c-1-44m2-1314526/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato Pulido Sp12Ph09T 75X150 2.25 Mts Foshan,112488.75,44995.5,60.0,https://www.easy.com.ar/pulido-75x150mod-sp12ph09t-c-2-25m2-1291234/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 15x90 Cm Tipo Madera Amarillo 159041Q-1 Foshan,37794.6,15117.84,60.0,https://www.easy.com.ar/porc-15x90-mod-159041q-1/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Revestimiento 30X60 Cm Blanco Mate Foshan,35992.8,14397.12,60.0,https://www.easy.com.ar/rev-30x60-bco-mate-mod-1xs9000-c-1-44m2/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 60x120 Cm Almond Mate Baldara,66232.8,26493.12,60.0,https://www.easy.com.ar/porc-mat-60x120x9-8-mm-1-44-baldara-1448062/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato Pulido 75X150 Cm Blanco Mármol Carrara Foshan,112488.75,44995.5,60.0,https://www.easy.com.ar/piso-porc-pul75x150-carrara-wh-2-25-36/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato Gris 75x150 Cm Cemento Pulido Foshan,107988.75,43195.5,60.0,https://www.easy.com.ar/porc-75x150-mod-ms-bz751506-2-25-24/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Revestimiento Cerámico 30x90 Cm Blanco Mate 3Xs9000 Baldara,56691.9,22676.76,60.0,https://www.easy.com.ar/rev-30x90-bco-mate-mod-3xs9000-c-1-62m2-1239702/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 80x80 Cm Marrón GLP8116 Foshan,82550.4,33020.16,60.0,https://www.easy.com.ar/pulido-80x80-mod-glp8116-1-92m2/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 80x80 Cm Gris Glp8113 Foshan,86390.4,34556.16,60.0,https://www.easy.com.ar/pulido-80x80-mod-glp8113-1-92m2/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 90x90 Cm Gris Nord Cement Portobello,64391.95,25756.78,60.0,https://www.easy.com.ar/porc-90x90-nord-cement-nat-1-61m2-1183630/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Revestimiento 7.5X15 Cm Negro Brillante Pinto Arredamento,47409.55,18963.82,60.0,https://www.easy.com.ar/revest-7-5x15-liso-ng-brillante/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,"Revestimiento Cerámico 29,5X59,5 Cm Blanco Red Web Pointer",31908.6,12763.44,60.0,https://www.easy.com.ar/piso-cer-r-web-bl-30x60-mate-br-2-37-28/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 75X150 Cm Gris MS-BZ751503 Foshan,107988.75,43195.5,60.0,https://www.easy.com.ar/porc-75x150-mod-ms-bz751503-2-25-24/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato Larix Brown 20X120 1.44 Mts Yurtbay Seramik,57592.8,23037.12,60.0,https://www.easy.com.ar/porc-20x120-larix-brown-c-1-44m2-1314528/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Porcelanato 20X120 Cm Marrón Boreal Mix Portobello,54256.86,21702.74,60.0,https://www.easy.com.ar/porcell-20x120-boreal-mix-c-1-19m2-1278949/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos,Revestimiento 30X90 Cm Blanco Brillante 3XW9000 Baldara,68030.4,27212.16,60.0,https://www.easy.com.ar/rev-30x90-bco-bte--mod-3xw9000-c-1-62m2-1239703/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/ceramicas-para-piso,Cerámica para Piso 80X80 Cm Gris Beige Concreto Mate Pointer,40310.4,16124.16,60.0,https://www.easy.com.ar/piso-cer-zeppelin-grey-80x80-1-92-36-1372170/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/ceramicas-para-piso,"Revestimiento Cerámico 29,5X59,5 Cm Blanco Red Web Pointer",31908.6,12763.44,60.0,https://www.easy.com.ar/piso-cer-r-web-bl-30x60-mate-br-2-37-28/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 120x60 Cm Perla Brillante Baldara,70552.8,28221.12,60.0,https://www.easy.com.ar/porc-pulido-60x120x9-5-mm-1-44-baldara-1448067/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 60x120 Cm Beige Mate Baldara,60472.8,24189.12,60.0,https://www.easy.com.ar/porc-mat-60x120x9-8-mm-1-44-baldara-1448060/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porc Pulido 60x60x9.00 mm-1.44 Baldara,54712.8,21885.12,60.0,https://www.easy.com.ar/porc-pulido-60x60x9-00-mm-1-44-baldara-1448072/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 60X120 Cm Gris Concreto Cinza Portobello,71492.85,28597.14,60.0,https://www.easy.com.ar/porcell--60x120-concreto-cinza-1-43m2-1287271/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 75X150 Cm Gris Foshan,107988.75,43195.5,60.0,https://www.easy.com.ar/porc-75x150-mod-ms-ar751501-2-25-36/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 20x120 Cm Gris Larix Fume Yurtbay Seramik,57592.8,23037.12,60.0,https://www.easy.com.ar/porc-20x120-larix-fume-c-1-44m2-1314526/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato Pulido Sp12Ph09T 75X150 2.25 Mts Foshan,112488.75,44995.5,60.0,https://www.easy.com.ar/pulido-75x150mod-sp12ph09t-c-2-25m2-1291234/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 15x90 Cm Tipo Madera Amarillo 159041Q-1 Foshan,37794.6,15117.84,60.0,https://www.easy.com.ar/porc-15x90-mod-159041q-1/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 60x120 Cm Almond Mate Baldara,66232.8,26493.12,60.0,https://www.easy.com.ar/porc-mat-60x120x9-8-mm-1-44-baldara-1448062/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato Pulido 75X150 Cm Blanco Mármol Carrara Foshan,112488.75,44995.5,60.0,https://www.easy.com.ar/piso-porc-pul75x150-carrara-wh-2-25-36/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato Gris 75x150 Cm Cemento Pulido Foshan,107988.75,43195.5,60.0,https://www.easy.com.ar/porc-75x150-mod-ms-bz751506-2-25-24/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 80x80 Cm Marrón GLP8116 Foshan,82550.4,33020.16,60.0,https://www.easy.com.ar/pulido-80x80-mod-glp8116-1-92m2/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 80x80 Cm Gris Glp8113 Foshan,86390.4,34556.16,60.0,https://www.easy.com.ar/pulido-80x80-mod-glp8113-1-92m2/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 90x90 Cm Gris Nord Cement Portobello,64391.95,25756.78,60.0,https://www.easy.com.ar/porc-90x90-nord-cement-nat-1-61m2-1183630/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 75X150 Cm Gris MS-BZ751503 Foshan,107988.75,43195.5,60.0,https://www.easy.com.ar/porc-75x150-mod-ms-bz751503-2-25-24/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato Larix Brown 20X120 1.44 Mts Yurtbay Seramik,57592.8,23037.12,60.0,https://www.easy.com.ar/porc-20x120-larix-brown-c-1-44m2-1314528/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/porcelanatos,Porcelanato 20X120 Cm Marrón Boreal Mix Portobello,54256.86,21702.74,60.0,https://www.easy.com.ar/porcell-20x120-boreal-mix-c-1-19m2-1278949/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/baldosa,Porcelanato 75X150 Cm Gris MS-BZ751503 Foshan,107988.75,43195.5,60.0,https://www.easy.com.ar/porc-75x150-mod-ms-bz751503-2-25-24/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/baldosa,Cerámica para Piso 80X80 Cm Gris Beige Concreto Mate Pointer,40310.4,16124.16,60.0,https://www.easy.com.ar/piso-cer-zeppelin-grey-80x80-1-92-36-1372170/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/baldosa,Porcelanato 60x120 Cm Beige Mate Baldara,60472.8,24189.12,60.0,https://www.easy.com.ar/porc-mat-60x120x9-8-mm-1-44-baldara-1448060/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/baldosa,Porcelanato 80x80 Cm Gris Glp8113 Foshan,86390.4,34556.16,60.0,https://www.easy.com.ar/pulido-80x80-mod-glp8113-1-92m2/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/ceramicas-para-pared,Revestimiento 30X60 Cm Blanco Mate Foshan,35992.8,14397.12,60.0,https://www.easy.com.ar/rev-30x60-bco-mate-mod-1xs9000-c-1-44m2/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/ceramicas-para-pared,Revestimiento Cerámico 30x90 Cm Blanco Mate 3Xs9000 Baldara,56691.9,22676.76,60.0,https://www.easy.com.ar/rev-30x90-bco-mate-mod-3xs9000-c-1-62m2-1239702/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/ceramicas-para-pared,Revestimiento 7.5X15 Cm Negro Brillante Pinto Arredamento,47409.55,18963.82,60.0,https://www.easy.com.ar/revest-7-5x15-liso-ng-brillante/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/ceramicas-y-porcelanatos/ceramicas-para-pared,Revestimiento 30X90 Cm Blanco Brillante 3XW9000 Baldara,68030.4,27212.16,60.0,https://www.easy.com.ar/rev-30x90-bco-bte--mod-3xw9000-c-1-62m2-1239703/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Guardacantos Celeste 3.75X30 Cm San Giovanni,9743.0,3897.2,60.0,https://www.easy.com.ar/guarda-venecia-turquesa-3-75x30-1-5-ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Guarda Negro 5x30 Cm Gruppo Pietrabella,14580.0,5832.0,60.0,https://www.easy.com.ar/guarda-piedra-negro-5x30-1-50-34/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Malla I Colori Verde Argento 6.5X150 Cm San Giovanni,15995.0,6398.0,60.0,https://www.easy.com.ar/malla-i-colori-verde-argento/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Guarda Gris 5X30 Cm Vidrio San Giovanni,12995.0,5198.0,60.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-gris/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Guarda Azul 1.5X0.05 Mts San Giovanni,9795.0,3918.0,60.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-azul/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Malla I Colori Verde 6.5x150 Cm San Giovanni,20995.0,8398.0,60.0,https://www.easy.com.ar/malla-i-colori-bianco-verde-argento/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Malla I Colori Azul 1.5X6.5 Cm San Giovanni,17995.0,7198.0,60.0,https://www.easy.com.ar/malla-i-colori-azurro-argento/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Guardacantos Blanco 3.75X30 Cm Venecia San Giovanni,11010.0,4404.0,60.0,https://www.easy.com.ar/guarda-venecia-blanco-3-75x30-1-5-ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Guardacantos Rojo 3.75X30 Cm San Giovanni,8243.0,3297.2,60.0,https://www.easy.com.ar/guarda-venecia-rojo-3-75x30-1-5-ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Guarda Beige 5X30 Cm Pet's Fun,10493.0,4197.2,60.0,https://www.easy.com.ar/guarda-gibre-bronce-beige-5x30-cm-pet-s-fun-1205370/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Guarda Marrón 3X30 Cm Gruppo Pietrabella,8993.0,3597.2,60.0,https://www.easy.com.ar/guarda-marron-metalizado-3x30-1-5-40/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Guarda Cerámica Negro 3X30 Cm Gruppo Pietrabella,8993.0,3597.2,60.0,https://www.easy.com.ar/guarda-negro-metalizado-3x30-1-5-40/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados,Guarda Cerámica Rojo 6.5X30 Cm Gruppo Pietrabella,20993.0,8397.2,60.0,https://www.easy.com.ar/guarda-color-rosso-argento-6-5x30-1-5ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacantos Celeste 3.75X30 Cm San Giovanni,9743.0,3897.2,60.0,https://www.easy.com.ar/guarda-venecia-turquesa-3-75x30-1-5-ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Negro 5x30 Cm Gruppo Pietrabella,14580.0,5832.0,60.0,https://www.easy.com.ar/guarda-piedra-negro-5x30-1-50-34/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Gris 5X30 Cm Vidrio San Giovanni,12995.0,5198.0,60.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-gris/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Azul 1.5X0.05 Mts San Giovanni,9795.0,3918.0,60.0,https://www.easy.com.ar/guarda-gibre-5x30-plata-azul/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacantos Blanco 3.75X30 Cm Venecia San Giovanni,11010.0,4404.0,60.0,https://www.easy.com.ar/guarda-venecia-blanco-3-75x30-1-5-ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guardacantos Rojo 3.75X30 Cm San Giovanni,8243.0,3297.2,60.0,https://www.easy.com.ar/guarda-venecia-rojo-3-75x30-1-5-ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Beige 5X30 Cm Pet's Fun,10493.0,4197.2,60.0,https://www.easy.com.ar/guarda-gibre-bronce-beige-5x30-cm-pet-s-fun-1205370/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Marrón 3X30 Cm Gruppo Pietrabella,8993.0,3597.2,60.0,https://www.easy.com.ar/guarda-marron-metalizado-3x30-1-5-40/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/guardas,Guarda Cerámica Negro 3X30 Cm Gruppo Pietrabella,8993.0,3597.2,60.0,https://www.easy.com.ar/guarda-negro-metalizado-3x30-1-5-40/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/mallas,Malla I Colori Verde Argento 6.5X150 Cm San Giovanni,15995.0,6398.0,60.0,https://www.easy.com.ar/malla-i-colori-verde-argento/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/mallas,Malla I Colori Verde 6.5x150 Cm San Giovanni,20995.0,8398.0,60.0,https://www.easy.com.ar/malla-i-colori-bianco-verde-argento/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/mallas,Malla I Colori Azul 1.5X6.5 Cm San Giovanni,17995.0,7198.0,60.0,https://www.easy.com.ar/malla-i-colori-azurro-argento/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/guardas-y-decorados/mallas,Guarda Cerámica Rojo 6.5X30 Cm Gruppo Pietrabella,20993.0,8397.2,60.0,https://www.easy.com.ar/guarda-color-rosso-argento-6-5x30-1-5ml/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/alfombras-para-piso,Césped Sintético Verde 25 Mm 1x4 Mts Rehau,149995.0,59998.0,60.0,https://www.easy.com.ar/cesped-sintetico-25-mm-1x4m/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/alfombras-para-piso/cesped-sintetico-y-muro-plastico,Césped Sintético Verde 25 Mm 1x4 Mts Rehau,149995.0,59998.0,60.0,https://www.easy.com.ar/cesped-sintetico-25-mm-1x4m/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/perfiles-y-molduras,Malla Vidrio Naranja y Amarillo 6.5X30 Cm Gruppo Pietrabella,20993.0,8397.2,60.0,https://www.easy.com.ar/malla-vidrio-nnja-y-amari-6-5x30-1-50-1-1185281/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/perfiles-y-molduras,Malla Vidrio Violeta 6.5x30 Cm Gruppo Pietrabella,20993.0,8397.2,60.0,https://www.easy.com.ar/malla-vidrio-violeta-6-5x30-1-50-15/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/perfiles-y-molduras/zocalos-y-perfiles,Malla Vidrio Naranja y Amarillo 6.5X30 Cm Gruppo Pietrabella,20993.0,8397.2,60.0,https://www.easy.com.ar/malla-vidrio-nnja-y-amari-6-5x30-1-50-1-1185281/p
+2026-11-27T03:20:07,/pisos-y-revestimientos/perfiles-y-molduras/zocalos-y-perfiles,Malla Vidrio Violeta 6.5x30 Cm Gruppo Pietrabella,20993.0,8397.2,60.0,https://www.easy.com.ar/malla-vidrio-violeta-6-5x30-1-50-15/p
+2026-11-27T03:20:07,/pinturas,"Empapelado Vinílico Blanco y Negro 0,52x10 Mts Árboles Muresco",28990.0,11596.0,60.0,https://www.easy.com.ar/papel-vinilizado-arboles-1325268/p
+2026-11-27T03:20:07,/pinturas,Aerosol Amarillo Limón Fluorescente 311 Grs Krylon,30495.0,12198.0,60.0,https://www.easy.com.ar/aero-kry-fluorescent-amarillo-limon-311-1200792/p
+2026-11-27T03:20:07,/pinturas/aerosoles-acrilicos-y-entonadores,Aerosol Amarillo Limón Fluorescente 311 Grs Krylon,30495.0,12198.0,60.0,https://www.easy.com.ar/aero-kry-fluorescent-amarillo-limon-311-1200792/p
+2026-11-27T03:20:07,/pinturas/aerosoles-acrilicos-y-entonadores/aerosoles,Aerosol Amarillo Limón Fluorescente 311 Grs Krylon,30495.0,12198.0,60.0,https://www.easy.com.ar/aero-kry-fluorescent-amarillo-limon-311-1200792/p
+2026-11-27T03:20:07,/pinturas/empapelados-vinilos-y-otros,"Empapelado Vinílico Blanco y Negro 0,52x10 Mts Árboles Muresco",28990.0,11596.0,60.0,https://www.easy.com.ar/papel-vinilizado-arboles-1325268/p
+2026-11-27T03:20:07,/pinturas/empapelados-vinilos-y-otros/vinilicos,"Empapelado Vinílico Blanco y Negro 0,52x10 Mts Árboles Muresco",28990.0,11596.0,60.0,https://www.easy.com.ar/papel-vinilizado-arboles-1325268/p
+2026-11-27T03:20:07,/ferreteria,Guante Multiuso Talle 8 Negro Randon,3010.0,1505.0,50.0,https://www.easy.com.ar/guante-multiuso/p
+2026-11-27T03:20:07,/ferreteria,Gancho Plástico Transparente Mini 6 Un Command,8985.0,4492.5,50.0,https://www.easy.com.ar/gancho-command-clear-mini-x-6-und-3m-941601/p
+2026-11-27T03:20:07,/ferreteria,Guante Moteado Profesional Talla 8 Amarillo Randon,3415.0,1707.5,50.0,https://www.easy.com.ar/guante-reforzado-moteado-amarillo/p
+2026-11-27T03:20:07,/ferreteria,"Gancho Plástico Adhesivo Grande 4,4x17,1 Cm Blanco Command",8645.0,4322.5,50.0,https://www.easy.com.ar/ganchos-grande-c-adhesivo-3m/p
+2026-11-27T03:20:07,/ferreteria/cintas-y-burletes,Gancho Plástico Transparente Mini 6 Un Command,8985.0,4492.5,50.0,https://www.easy.com.ar/gancho-command-clear-mini-x-6-und-3m-941601/p
+2026-11-27T03:20:07,/ferreteria/cintas-y-burletes,"Gancho Plástico Adhesivo Grande 4,4x17,1 Cm Blanco Command",8645.0,4322.5,50.0,https://www.easy.com.ar/ganchos-grande-c-adhesivo-3m/p
+2026-11-27T03:20:07,/ferreteria/cintas-y-burletes/cintas,Gancho Plástico Transparente Mini 6 Un Command,8985.0,4492.5,50.0,https://www.easy.com.ar/gancho-command-clear-mini-x-6-und-3m-941601/p
+2026-11-27T03:20:07,/ferreteria/cintas-y-burletes/cintas,"Gancho Plástico Adhesivo Grande 4,4x17,1 Cm Blanco Command",8645.0,4322.5,50.0,https://www.easy.com.ar/ganchos-grande-c-adhesivo-3m/p
+2026-11-27T03:20:07,/ferreteria/proteccion-personal-y-seguridad,Guante Multiuso Talle 8 Negro Randon,3010.0,1505.0,50.0,https://www.easy.com.ar/guante-multiuso/p
+2026-11-27T03:20:07,/ferreteria/proteccion-personal-y-seguridad,Guante Moteado Profesional Talla 8 Amarillo Randon,3415.0,1707.5,50.0,https://www.easy.com.ar/guante-reforzado-moteado-amarillo/p
+2026-11-27T03:20:07,/ferreteria/proteccion-personal-y-seguridad/proteccion-manual-y-respiratoria,Guante Multiuso Talle 8 Negro Randon,3010.0,1505.0,50.0,https://www.easy.com.ar/guante-multiuso/p
+2026-11-27T03:20:07,/ferreteria/proteccion-personal-y-seguridad/proteccion-manual-y-respiratoria,Guante Moteado Profesional Talla 8 Amarillo Randon,3415.0,1707.5,50.0,https://www.easy.com.ar/guante-reforzado-moteado-amarillo/p
